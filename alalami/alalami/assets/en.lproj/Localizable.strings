@@ -1,0 +1,399 @@
+/* 
+ Localizable.strings
+ alalami
+ 
+ Created by Zaid Khaled on 8/31/20.
+ Copyright © 2020 technzone. All rights reserved.
+ */
+"alert" = "Al-Alami Financial Services";
+"appname" = "Al Alami";
+"no_internet_connection" = "You don't have an internet connection!";
+"enter_valid_mobile" = "Enter a valid mobile number, example (700000000)";
+"enter_valid_password" = "Enter a valid password";
+"enter_valid_firstname" = "Enter your first name";
+"enter_valid_middlename" = "Enter your second name";
+"enter_valid_thirdname" = "Enter your third name";
+"enter_valid_familyname" = "Enter your family name";
+"select_valid_country" = "Select country";
+"select_birthdate" = "Select your date of birth";
+"select_nationality" = "Select your nationality";
+"select_occupation" = "Select your occupation";
+"select_birth_date" = "Select Date";
+"done" = "Done";
+"cancel" = "Cancel";
+
+"add_image_pic_title" = "Attach Images";
+"add_image_pic_message" = "Take images from camera or add from your gallery";
+"add_image_pic_message_no_gallery" = "Take images from camera";
+"camera" = "Camera";
+"gallery" = "Gallery";
+
+"resident" = "Resident";
+"not_resident" = "Non Resident";
+
+"next" = "Next";
+"lets_get_started" = "Get Started!";
+
+"intro1_title" = "Al Alami";
+"intro1_desc" = "Al Alami Financial Services convention secure affordable";
+
+"intro2_title" = "Al Alami";
+"intro2_desc" = "Send to banks, Cash pick-up, wallets and more";
+
+"intro3_title" = "Al Alami";
+"intro3_desc" = "Authorised and Regulated by the CBJ";
+
+"confirm_your_password" = "Confirm your 8 characters password";
+"passwords_missmatch" = "Passwords did not match!";
+"enter_email_address" = "Enter your email address";
+"enter_valid_email" = "Enter a valid email address (example: aaa@bbb.ccc)";
+
+"select_reason_of_reg" = "Select reason of registration to continue";
+
+"select_id_type" = "Select identity type";
+"select_issue_country" = "Select id issue country";
+"enter_valid_id_number" = "Enter id number";
+"select_issue_date" = "Select id issue date";
+"select_expiry_date" = "Select id expiry date";
+"select_residence" = "Select residency";
+"add_id_front_image" = "Add id front image";
+"add_id_back_image" = "Add id back image";
+"enter_valid_city" = "Enter a valid city name";
+"enter_valid_street" = "Enter your street address";
+"enter_valid_building" = "Enter your building number";
+"enter_valid_address" = "Enter your address details";
+
+"add_face_image" = "Add an image of your face";
+"add_face_video" = "Record a 3 seconds video of your face";
+"enter_valid_national_number" = "Enter a valid national number";
+
+"confirm_cancel_vertification" = "Are you sure you want to cancel the verification process?";
+"yes" = "Yes";
+"no" = "No";
+
+"enter_valid_password_regex" = "Password must containt at least one character upper case.\n\nPassword must containt at least one Special Character.\n\nPassword must containt at least one number.\n\nPassword must be at least 8 character.";
+
+
+"enter_pin_digits" = "Enter a valid code first";
+"enter_valid_id_number_regex" = "Enter a valid Identity Number. Example (xxx00000)";
+
+"service_send_unavailable" = "This service is not available to send money";
+"service_receive_unavailable" = "This service is not available to receive money";
+
+"exclude_fee" = "Exclude Fee";
+"include_fee" = "Include Fee";
+
+"select_fee_type" = "Select fee type";
+"select_destination_country" = "Select destination country";
+"enter_amount" = "Enter amount";
+
+//attributes
+"valid_receive_amount" = "Valid Receive Amount:";
+"valid_receive_currency" = "Valid Receive Currency:";
+"valid_exchange" = "Valid Exchange:";
+"receive_country" = "Receive Country:";
+"delivery_option" = "Delivery Option:";
+"send_amount" = "Send Amount:";
+"send_currency" = "Send Currency:";
+"total_send_fees" = "Total Send Fees:";
+"total_receive_fees" = "Total Receive Fees:";
+"total_receive_amount" = "Total Receive Amount:";
+"total_receive" = "Total Receive:";
+"payout_currency" = "Payout Currency:";
+
+
+"enter_sender_region" = "Enter sender region";
+"enter_sender_city" = "Enter sender city";
+"enter_sender_street" = "Enter sender street";
+"enter_sender_building_name" = "Enter sender building name";
+"enter_sender_building_number" = "Enter sender building number";
+"enter_sender_apartment" = "Enter sender apartment";
+"enter_sender_address" = "Enter sender address";
+"enter_receiver_region" = "Enter receiver region";
+"enter_receiver_city" = "Enter receiver city";
+"enter_receiver_street" = "Enter receiver street";
+"enter_receiver_building_name" = "Enter receiver building name";
+"enter_receiver_building_number" = "Enter receiver building number";
+"enter_receiver_apartment" = "Enter receiver apartment";
+"enter_receiver_address" = "Enter receiver address";
+
+"select_wallet_provider" = "Select wallet provider";
+"enter_wallet_number" = "Enter wallet number";
+
+"select_reason_of_transfer" = "Select purpose of transfer";
+"select_relationship_to_receiver" = "Select relationship to receiver";
+"select_relationship" = "Select relationship";
+"select_source_of_fund" = "Select source of funds";
+
+"select_payout_option" = "Select a payout option first";
+
+"first_name" = "First Name";
+"second_name" = "Second Name";
+"third_name" = "Third Name";
+"last_name" = "Last Name";
+
+"you_must_agree_terms" = "Kindly read and accept the terms of service below";
+
+"select_branch" = "Select Branch";
+"anywhere_payout" = "Any AFS branches";
+
+"select_branch_first" = "Select branch first";
+"id_is_expired" = "ID is expired";
+
+"enter_first_name" = "Enter first name";
+"enter_second_name" = "Enter second name";
+"enter_third_name" = "Enter third name";
+"enter_last_name" = "Enter last name";
+"enter_mobile_number" = "Enter mobile number";
+
+"screenshot_saved_successfully" = "Screenshot has been saved to your photos library";
+"jod" = "JOD";
+
+"enter_remittance_no" = "Enter remittance number";
+"enter_expected_amount" = "Enter expected amount";
+"enter_sender_name" = "Enter sender name";
+
+"sender_name" = "Sender Name";
+
+"select_bank" = "Select bank first";
+"enter_iban" = "Enter bank acount IBAN";
+"enter_account_number" = "Enter bank account number";
+
+"money_gram" = "MoneyGram";
+"add_reward_desc" = "Do you want to add your information to MoneyGram reward?";
+
+"your_moneygram_code_is" = "Your MoneyGram reward number is:";
+"ok" = "Ok";
+"is_required" = "is required";
+
+"receive_request_sent" = "Receive request has been submitted successfully";
+
+
+"remittance_details" = "Remittance Details";
+"destination_country" = "Destination Country";
+"amount" = "Amount";
+"fee_type" = "Fee Type";
+"send_currency" = "Send Currency";
+"receive_currency" = "Receive Currency";
+"service_option" = "Service Option";
+
+"receiver_details" = "Receiver Details";
+"phone" = "Phone";
+"country" = "Country";
+"purpose_of_transfer" = "Purpose of Transfer";
+"source_of_funds" = "Source of Funds";
+"relation_ship_to_receiver" = "Relation to Receiver";
+"bank" = "Bank";
+"account_number" = "Account Number";
+"iban" = "IBAN";
+"sender_details" = "Sender Details";
+
+"receiver" = "Receiver";
+"sender" = "Sender";
+
+"select_language" = "Select Language";
+
+"enter_current_password" = "Enter your current password";
+"enter_new_password" = "Enter your new password";
+"confirm_new_password" = "Confirm your new password";
+"password_changed_successfully" = "Password has been changed successfully";
+
+"touch_id" = "Touch ID";
+"face_id" = "Face ID";
+"version" = "Version";
+
+"confirm_logout" = "Are you sure you want to logout?";
+"logout" = "Logout";
+
+"select_your_country" = "Select your country";
+"enter_phone_first" = "Enter your phone first";
+
+"enter_message_here" = "Your message here";
+"message_sent_successfully" = "Your message has been sent successfully";
+"session_expired" = "Your session has expired";
+"login" = "Login";
+
+
+"filter_processing" = "Processing";
+"filter_approved" = "Approved";
+"filter_rejected" = "Rejected";
+"filter_cancelled" = "Cancelled";
+"filter_pending" = "Pending";
+"filter_ready" = "Ready";
+"filter_received" = "Received";
+
+"select_date" = "Select Date";
+
+"male" = "Male";
+"female" = "Female";
+
+"confirm_cancel_remittance" = "Are you sure you want to cancel this remittance?";
+
+"you_need_agree_terms" = "You need to agree to our Terms & Conditions to continue";
+
+"hereby_declare" = "I, hereby declare that";
+
+"i_agree" = "I Agree";
+
+"confirm" = "Confirm";
+"Or" = "Or";
+
+"passport_image" = "Passport Image *";
+"resident_image" = "Resident Image *";
+"id_front_side" = "ID Front Side *";
+"id_back_side" = "ID Back Side *";
+
+"you_need_agree_hereby" = "You have to agree on our registration policy";
+
+"good_morning" = "Good Morning";
+"good_evening" = "Good Evening";
+
+"send_money" = "Send Money";
+"receive_money" = "Receive Money";
+"history" = "History";
+"order_your_card" = "Order Your Card";
+
+"home" = "Home";
+"settings" = "Settings";
+"branches" = "Branches";
+"whatsapp" = "WhatsApp";
+"add_beneficiary" = "Add Beneficiary";
+
+"coming_soon" = "Order your international payment card for use at merchants,  e-commerce and much more\nCall us at 06-5504545";
+
+"active_members" = "Active members";
+
+"terms_and_conditions" = "Terms & Conditions";
+"help_center" = "Help Center";
+"about_us" = "About Us";
+
+"continueUsing" = "Continue using";
+"googleMaps" = "Google Maps";
+
+"send_notifications" = "Send Notifications";
+"receive_notifications" = "Receive Notifications";
+"profile_notifications" = "Profile Notifications";
+"general_notifications" = "General Notifications";
+"notifications" = "Notifications";
+
+"select_rejection_reason" = "Select Rejection Reason";
+"select_ammendment_reason" = "Select Ammendment Reason";
+
+"call_support" = "Call Support";
+"website" = "Website";
+"twitter" = "Twitter";
+"instagram" = "Instagram";
+"facebook" = "Facebook";
+
+"confirm_go_home" = "All entered data will be lost, are you sure you want to return home?";
+"go_home" = "Go home";
+
+"select_country" = "Select country first";
+
+"send_disabled" = "Send feature is currently not available.";
+"receive_disabled" = "Receive feature is currently not available";
+
+"receive_currency" = "Receive Currency";
+"payout_method" = "PayOut Method";
+"service_provider" = "Service Provider";
+
+"id_placeholder_jordan" = "Enter ID Number Example: (xxx00000)";
+"id_placeholder_other" = "Enter ID Number";
+
+"select_payin_method" = "Select Pay In method";
+
+//special chars validations
+"text_regex_firstname" = "First Name must not contain special characters";
+"text_regex_middlename" = "Second Name must not contain special characters";
+"text_regex_thirdname" = "Third Name must not contain special characters";
+"text_regex_familyname" = "Last Name must not contain special characters";
+"text_regex_city" = "City must not contain special characters";
+"text_regex_mobile" = "Mobile Number must not contain special characters";
+"text_regex_phone" = "Phone Number must not contain special characters";
+"text_regex_region" = "Region must not contain special characters";
+"text_regex_walletnumber" = "Wallet Number must not contain special characters";
+"text_regex_iban" = "IBAN must not contain special characters";
+"text_regex_iban" = "IBAN must not contain special characters";
+"text_regex_accountnumber" = "Account Number must not contain special characters";
+"text_regex_remittanceno" = "Remittance Number must not contain special characters";
+"text_regex_sendername" = "Sender Name must not contain special characters";
+"text_regex_name" = "Name must not contain special characters";
+"text_regex_idnumber" = "ID Number must not contain special characters";
+"text_regex_nationalnumber" = "National Number must not contain special characters";
+
+"text_regex_street" = "Street must not contain special characters";
+"text_regex_building" = "Building must not contain special characters";
+"text_regex_message" = "Message must not contain special characters";
+
+"must_not_contain_special_chars" = "must not contain special characters";
+
+"enter_your_name" = "Enter your name";
+"enter_your_phone" = "Enter your phone";
+"enter_your_message" = "Enter your message";
+
+"home_btn" = "Home";
+
+"arabic_content_only" = "All information entered must be in English";
+
+
+"text_regex_building_name" = "Building Name must not contain special characters";
+"text_regex_building_number" = "Building Number must not contain special characters";
+"text_regex_apartment" = "Apartment must not contain special characters";
+"text_regex_address" = "Address must not contain special characters";
+
+"not_available" = "Not available";
+"OR" = "Or";
+"jordan" = "Jordan";
+
+
+"first_name_ph" = "Enter first name here";
+"second_name_ph" = "Enter second name here";
+"third_name_ph" = "Enter third name here";
+"last_name_ph" = "Enter last name here";
+
+"does_not_match_format" = "does not match required format";
+
+"confirm_receiver_name" = "Please confirm receiver name";
+
+"send" = "Send";
+"receive" = "Receive";
+
+"amount_by_jod" = "Amount In JOD *";
+"received_amount" = "Received Amount";
+
+"Amount In Country" = "Amount In Country";
+"Amount In" =  "Amount In";
+"Send Money" = "Send Money";
+
+"Received of payment" = "Receive Amount";
+"Pay Out Method" = "Pay Out Method";
+"warning" = "Warning";
+"Remittance Details" = "Remittance Details";
+
+"Please enter the amount in Jordanian Dinar or foreign currency" = "Please enter the amount in Jordanian Dinar's or destination foreign currency amount";
+
+
+"change_password" = "Change Password";
+"Enter the amount you need to send by JOD \n \n OR \n \n The amount you need to receive by destination country currency" = "Enter the amount you need to send by JOD \n \n OR \n \n The amount you need to receive by destination country currency";
+
+"Mobile Number" = "Mobile Number";
+
+
+
+"Enter Mobile Number Here" = "Enter Mobile Number Here";
+
+
+"Recipient's IBAN or Alias" = "IBAN";
+"Enter IBAN or Alias here" = "Enter IBAN here";
+
+"enter_ibans" = "Enter Your IBAN";
+
+"daman"="Daman Pay";
+
+"daman_CSSINumber" = "Please Enter Pay Number";
+"daman_ReferenceNumber" = "Please Enter Reference Number";
+"daman_radioBuuon" = "Please Chose Individuals Or Facilities";
+"daman_PaymentType" = "Please Enter Payment Type";
+
+"areـyouـsureـyouـwantـtoـcancelـthisـtransaction?" = "are you sure you want to cancel this transaction?";
+"transfer_Details" = "Transfer Details";

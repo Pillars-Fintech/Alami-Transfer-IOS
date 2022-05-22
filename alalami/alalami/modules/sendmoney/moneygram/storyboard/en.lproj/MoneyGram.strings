@@ -1,0 +1,511 @@
+
+/* Class = "UILabel"; text = "Destination Country"; ObjectID = "0WB-RI-o0p"; */
+"0WB-RI-o0p.text" = "Destination Country";
+
+/* Class = "UILabel"; text = "AZ"; ObjectID = "0uS-H0-iAW"; */
+"0uS-H0-iAW.text" = "AZ";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "15p-h5-81A"; */
+"15p-h5-81A.text" = "1";
+
+/* Class = "UILabel"; text = "Building Name"; ObjectID = "1NR-Wz-h54"; */
+"1NR-Wz-h54.text" = "Building Name";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "1lI-Ed-tIB"; */
+"1lI-Ed-tIB.text" = "2";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "1mc-8n-i99"; */
+"1mc-8n-i99.text" = "4";
+
+/* Class = "UILabel"; text = "I am the real beneficiary of the transfer process through the application of Al-alami Financial Services."; ObjectID = "25v-Za-Dhi"; */
+"25v-Za-Dhi.text" = "I am the real beneficiary of the transfer process through the application of Al-Alami Financial Services.";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "2aO-wx-ZtJ"; */
+"2aO-wx-ZtJ.text" = "Last Name";
+
+/* Class = "UILabel"; text = "asasd"; ObjectID = "37t-Eo-ULi"; */
+"37t-Eo-ULi.text" = "asasd";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "3N8-Lh-72c"; */
+"3N8-Lh-72c.text" = "5";
+
+/* Class = "UILabel"; text = "Destination Country"; ObjectID = "3Td-ma-8vV"; */
+"3Td-ma-8vV.text" = "Destination Country *";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "3Ux-TA-D8c"; */
+"3Ux-TA-D8c.text" = "---";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "3X4-42-nHR"; */
+"3X4-42-nHR.text" = "6";
+
+/* Class = "UILabel"; text = "Decimal"; ObjectID = "3nC-r5-zXq"; */
+"3nC-r5-zXq.text" = "Decimal";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "4Am-Fx-ydt"; */
+"4Am-Fx-ydt.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "Source of Funds"; ObjectID = "4fs-pO-bjL"; */
+"4fs-pO-bjL.text" = "Source of Funds *";
+
+/* Class = "UITextField"; placeholder = "Enter address details here"; ObjectID = "5Ha-sM-Uue"; */
+"5Ha-sM-Uue.placeholder" = "Enter address details here";
+
+/* Class = "UITextField"; placeholder = "Enter apartment number here"; ObjectID = "5Hu-HV-kwU"; */
+"5Hu-HV-kwU.placeholder" = "Enter apartment number here";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "62r-NZ-PUl"; */
+"62r-NZ-PUl.text" = "City";
+
+/* Class = "UITextField"; placeholder = "Enter street here"; ObjectID = "67Z-P8-NTL"; */
+"67Z-P8-NTL.placeholder" = "Enter street here";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "6Cl-EY-cVb"; */
+"6Cl-EY-cVb.text" = "City";
+
+/* Class = "UILabel"; text = "Select Country"; ObjectID = "6Ds-D5-UBU"; */
+"6Ds-D5-UBU.text" = "Select Country";
+
+/* Class = "UILabel"; text = "Region"; ObjectID = "6Qg-lw-Mnr"; */
+"6Qg-lw-Mnr.text" = "Region";
+
+/* Class = "UILabel"; text = "Apartment"; ObjectID = "6cs-Zl-WmA"; */
+"6cs-Zl-WmA.text" = "Apartment";
+
+/* Class = "UILabel"; text = "Boolean"; ObjectID = "6kS-uy-1gk"; */
+"6kS-uy-1gk.text" = "Boolean";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "6qj-Le-1r5"; */
+"6qj-Le-1r5.text" = "No";
+
+/* Class = "UITextField"; placeholder = "Your address here"; ObjectID = "745-RI-E0a"; */
+"745-RI-E0a.placeholder" = "Your address here";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "8lp-gN-8u7"; */
+"8lp-gN-8u7.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "9Mz-aL-b3i"; */
+"9Mz-aL-b3i.text" = "6";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "ARt-IG-saJ"; */
+"ARt-IG-saJ.text" = "5";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "AmH-eh-vX9"; */
+"AmH-eh-vX9.text" = "Amount by JOD *";
+
+/* Class = "UILabel"; text = "Pay In Method"; ObjectID = "B0e-Du-OiB"; */
+"B0e-Du-OiB.text" = "Pay In Method";
+
+/* Class = "UILabel"; text = "Valid Receive Amount:"; ObjectID = "BLY-LC-MJE"; */
+"BLY-LC-MJE.text" = "Valid Receive Amount:";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "BOn-5f-rKM"; */
+"BOn-5f-rKM.text" = "Phone:";
+
+/* Class = "UITextField"; placeholder = "Your first name here"; ObjectID = "CHS-qU-Fob"; */
+"CHS-qU-Fob.placeholder" = "Your first name here";
+
+/* Class = "UITextField"; placeholder = "Enter building name here"; ObjectID = "CNq-7u-3ST"; */
+"CNq-7u-3ST.placeholder" = "Enter building name here";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "DxR-Xg-Ewy"; */
+"DxR-Xg-Ewy.text" = "1";
+
+/* Class = "UITextField"; placeholder = "Enter region here"; ObjectID = "E0H-rw-Clf"; */
+"E0H-rw-Clf.placeholder" = "Enter region here";
+
+/* Class = "UITextField"; placeholder = "Enter promotion code here"; ObjectID = "E1e-e9-ct5"; */
+"E1e-e9-ct5.placeholder" = "Enter promotion code here";
+
+/* Class = "UILabel"; text = "Pay In Method"; ObjectID = "E6L-b6-iNQ"; */
+"E6L-b6-iNQ.text" = "Pay In Method *";
+
+/* Class = "UILabel"; text = "00962-65532680"; ObjectID = "FRe-sA-Koh"; */
+"FRe-sA-Koh.text" = "00962-65532680";
+
+/* Class = "UITextField"; placeholder = "Amount to send here"; ObjectID = "FZR-V9-A4C"; */
+"FZR-V9-A4C.placeholder" = "Amount to send";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "G1w-19-NNy"; */
+"G1w-19-NNy.text" = "No";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "G2p-yM-cU0"; */
+"G2p-yM-cU0.text" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "Enter apartment number here"; ObjectID = "G3m-FH-77l"; */
+"G3m-FH-77l.placeholder" = "Enter apartment number here";
+
+/* Class = "UILabel"; text = "Reward Application Form"; ObjectID = "Ihq-NK-LkQ"; */
+"Ihq-NK-LkQ.text" = "Reward Application Form";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "JVP-P5-ZI6"; */
+"JVP-P5-ZI6.text" = "Country";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "KAs-my-dYH"; */
+"KAs-my-dYH.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "KCS-i4-ETy"; */
+"KCS-i4-ETy.text" = "2";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "KLS-D5-Nza"; */
+"KLS-D5-Nza.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "Kjv-2U-Euv"; */
+"Kjv-2U-Euv.text" = "5";
+
+/* Class = "UILabel"; text = "Sender Address Details:"; ObjectID = "LbL-DY-rb5"; */
+"LbL-DY-rb5.text" = "Sender Address Details:";
+
+/* Class = "UILabel"; text = "Building Number"; ObjectID = "Ljn-NF-g52"; */
+"Ljn-NF-g52.text" = "Building Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Lx7-lf-gnZ"; */
+"Lx7-lf-gnZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "M8S-Jq-pe9"; */
+"M8S-Jq-pe9.text" = "Country";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "MTI-BD-YF3"; */
+"MTI-BD-YF3.text" = "1";
+
+/* Class = "UILabel"; text = "Receiver Address Details:"; ObjectID = "Mb3-3l-Qox"; */
+"Mb3-3l-Qox.text" = "Receiver Address Details:";
+
+/* Class = "UITextField"; placeholder = "Enter city here"; ObjectID = "Nkc-Wa-Nu3"; */
+"Nkc-Wa-Nu3.placeholder" = "Enter city here";
+
+/* Class = "UILabel"; text = "Building Number"; ObjectID = "NpY-rs-9ni"; */
+"NpY-rs-9ni.text" = "Building Number";
+
+/* Class = "UILabel"; text = "string"; ObjectID = "Nzh-sZ-pbZ"; */
+"Nzh-sZ-pbZ.text" = "string";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "O7o-vH-g4o"; */
+"O7o-vH-g4o.text" = "3";
+
+/* Class = "UILabel"; text = "Region"; ObjectID = "OPY-Hd-QaD"; */
+"OPY-Hd-QaD.text" = "Region";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "OZl-RR-T4n"; */
+"OZl-RR-T4n.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "Wallet Provider"; ObjectID = "PBI-B5-6nl"; */
+"PBI-B5-6nl.text" = "Wallet Provider";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "PsM-ug-JdH"; */
+"PsM-ug-JdH.placeholder" = "Select";
+
+/* Class = "UITextField"; placeholder = "hint"; ObjectID = "Qh3-Wu-nwa"; */
+"Qh3-Wu-nwa.placeholder" = "hint";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "R4X-R8-KJl"; */
+"R4X-R8-KJl.text" = "Address";
+
+/* Class = "UILabel"; text = "Street"; ObjectID = "S3F-Z0-PrR"; */
+"S3F-Z0-PrR.text" = "Street";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "SEu-Sq-lga"; */
+"SEu-Sq-lga.text" = "Address";
+
+/* Class = "UILabel"; text = "Apartment"; ObjectID = "SLQ-e8-OET"; */
+"SLQ-e8-OET.text" = "Apartment";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Sf3-WP-Udh"; */
+"Sf3-WP-Udh.text" = "First Name";
+
+/* Class = "UITextField"; placeholder = "Your last name here"; ObjectID = "Ssm-pd-gGI"; */
+"Ssm-pd-gGI.placeholder" = "Your last name here";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "TUT-El-0I9"; */
+"TUT-El-0I9.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "TbI-Cm-HyH"; */
+"TbI-Cm-HyH.text" = "Yes";
+
+/* Class = "UILabel"; text = "DateTime"; ObjectID = "UfL-Pl-huU"; */
+"UfL-Pl-huU.text" = "DateTime";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Uyg-g2-TFj"; */
+"Uyg-g2-TFj.text" = "1";
+
+/* Class = "UILabel"; text = "MoneyGram Reward"; ObjectID = "V6e-cf-YCM"; */
+"V6e-cf-YCM.text" = "MoneyGram Reward";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "VKl-CJ-m8t"; */
+"VKl-CJ-m8t.text" = "2";
+
+/* Class = "UILabel"; text = "Al Alami Exchange Co."; ObjectID = "W5k-Tv-cwJ"; */
+"W5k-Tv-cwJ.text" = "Al Alami Exchange Co.";
+
+/* Class = "UITextField"; placeholder = "Your mobile number here"; ObjectID = "WGQ-Ui-dJF"; */
+"WGQ-Ui-dJF.placeholder" = "Your mobile number here";
+
+/* Class = "UILabel"; text = "Street"; ObjectID = "WO8-I2-ejt"; */
+"WO8-I2-ejt.text" = "Street";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "WSS-HF-AYR"; */
+"WSS-HF-AYR.text" = "Address";
+
+/* Class = "UILabel"; text = "Fees:"; ObjectID = "WVU-gC-ZnV"; */
+"WVU-gC-ZnV.text" = "Fees:";
+
+/* Class = "UILabel"; text = "DropDown"; ObjectID = "Wn0-2L-NnJ"; */
+"Wn0-2L-NnJ.text" = "DropDown";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "X7J-Fk-SKm"; */
+"X7J-Fk-SKm.text" = "6";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "XWb-HC-fkN"; */
+"XWb-HC-fkN.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Enter building name here"; ObjectID = "Y5R-s0-mC1"; */
+"Y5R-s0-mC1.placeholder" = "Enter building name here";
+
+/* Class = "UILabel"; text = "Remittance Info"; ObjectID = "YtG-as-hCb"; */
+"YtG-as-hCb.text" = "Transfer Info";
+
+/* Class = "UITextField"; placeholder = "Enter building name here"; ObjectID = "Z53-yM-Pkt"; */
+"Z53-yM-Pkt.placeholder" = "Enter building name here";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "ZBN-wv-uEU"; */
+"ZBN-wv-uEU.normalTitle" = "Home";
+
+/* Class = "UILabel"; text = "Add supporting document photo copy from camera or gallery."; ObjectID = "ZBc-Ti-Fz0"; */
+"ZBc-Ti-Fz0.text" = "Add supporting document photo copy";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "Zdb-Zw-Vvs"; */
+"Zdb-Zw-Vvs.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "Zdp-hY-6yg"; */
+"Zdp-hY-6yg.text" = "City";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "ZnH-oN-ZHw"; */
+"ZnH-oN-ZHw.text" = "3";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "aJ2-4O-m71"; */
+"aJ2-4O-m71.text" = "4";
+
+/* Class = "UILabel"; text = "Building Name"; ObjectID = "aJZ-AX-HG9"; */
+"aJZ-AX-HG9.text" = "Building Name";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "aKC-Bz-0df"; */
+"aKC-Bz-0df.text" = "3";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "az3-BO-BXP"; */
+"az3-BO-BXP.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "bQE-Wn-7th"; */
+"bQE-Wn-7th.text" = "4";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "boX-2k-eeb"; */
+"boX-2k-eeb.text" = "5";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "c8A-NC-jZe"; */
+"c8A-NC-jZe.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "MoneyGram"; ObjectID = "cpN-jF-1LI"; */
+"cpN-jF-1LI.text" = "MoneyGram";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "d6h-nk-6ov"; */
+"d6h-nk-6ov.text" = "3";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "dH5-iD-sAc"; */
+"dH5-iD-sAc.text" = "6";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "dqx-6O-EMd"; */
+"dqx-6O-EMd.text" = "2";
+
+/* Class = "UITextField"; placeholder = "Enter street here"; ObjectID = "ebh-gg-4cg"; */
+"ebh-gg-4cg.placeholder" = "Enter street here";
+
+/* Class = "UITextField"; placeholder = "hint"; ObjectID = "euG-z6-q8p"; */
+"euG-z6-q8p.placeholder" = "hint";
+
+/* Class = "UITextField"; placeholder = "Enter building name here"; ObjectID = "fkn-85-jt7"; */
+"fkn-85-jt7.placeholder" = "Enter building name here";
+
+/* Class = "UILabel"; text = "Wallet Details"; ObjectID = "fwI-EY-apJ"; */
+"fwI-EY-apJ.text" = "Wallet Details";
+
+/* Class = "UILabel"; text = "Sobhi Al-Omari St., Amman"; ObjectID = "g1w-2j-r9S"; */
+"g1w-2j-r9S.text" = "Sobhi Al-Omari St., Amman";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "gI2-oy-aus"; */
+"gI2-oy-aus.text" = "6";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "gWh-ua-Srd"; */
+"gWh-ua-Srd.placeholder" = "Select";
+
+/* Class = "UITextField"; placeholder = "Amount to send here"; ObjectID = "gch-6e-ih5"; */
+"gch-6e-ih5.placeholder" = "Enter wallet number here";
+
+/* Class = "UITextField"; placeholder = "Your city here"; ObjectID = "gfG-k2-MCg"; */
+"gfG-k2-MCg.placeholder" = "Your city here";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "h02-zS-PiP"; */
+"h02-zS-PiP.text" = "4";
+
+/* Class = "UILabel"; text = "(06) 585 2890"; ObjectID = "if8-Gi-yea"; */
+"if8-Gi-yea.text" = "(06) 585 2890";
+
+/* Class = "UILabel"; text = "Promotion Code"; ObjectID = "ioQ-t6-FUY"; */
+"ioQ-t6-FUY.text" = "Promotion Code";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "izm-Uh-Xdf"; */
+"izm-Uh-Xdf.text" = "5";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "j6Y-KB-bTT"; */
+"j6Y-KB-bTT.text" = "2";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "jDd-sA-4cZ"; */
+"jDd-sA-4cZ.text" = "No";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "jXw-v2-4NP"; */
+"jXw-v2-4NP.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "jhO-m0-vSM"; */
+"jhO-m0-vSM.text" = "Yes";
+
+/* Class = "UITextField"; placeholder = "Enter address details here"; ObjectID = "k3G-9r-KDb"; */
+"k3G-9r-KDb.placeholder" = "Enter address details here";
+
+/* Class = "UIButton"; normalTitle = "Join Reward"; ObjectID = "kBa-Lo-ce0"; */
+"kBa-Lo-ce0.normalTitle" = "Join Reward";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "kfA-Qp-b21"; */
+"kfA-Qp-b21.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "lEs-qD-lLl"; */
+"lEs-qD-lLl.text" = "4";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "lTM-fL-s6D"; */
+"lTM-fL-s6D.text" = "Yes";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "m3J-hC-1aV"; */
+"m3J-hC-1aV.text" = "4";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "mPr-YN-tKP"; */
+"mPr-YN-tKP.text" = "5";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "mSR-RH-Mv0"; */
+"mSR-RH-Mv0.placeholder" = "Select";
+
+/* Class = "UITextField"; placeholder = "Enter region here"; ObjectID = "nsX-cO-XSA"; */
+"nsX-cO-XSA.placeholder" = "Enter region here";
+
+/* Class = "UILabel"; text = "Branches"; ObjectID = "oM9-g6-z4l"; */
+"oM9-g6-z4l.text" = "Branches";
+
+/* Class = "UILabel"; text = "Date of Birth"; ObjectID = "oVn-hC-lmC"; */
+"oVn-hC-lmC.text" = "Date of Birth";
+
+/* Class = "UILabel"; text = "Remittance Details"; ObjectID = "oXH-6M-Tet"; */
+"oXH-6M-Tet.text" = "Customer Details";
+
+/* Class = "UILabel"; text = "Fee Type"; ObjectID = "ohk-JI-KOS"; */
+"ohk-JI-KOS.text" = "Fee Type *";
+
+/* Class = "UILabel"; text = "Confirm"; ObjectID = "omg-16-bPx"; */
+"omg-16-bPx.text" = "Confirm Transfer";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "owV-Gp-fem"; */
+"owV-Gp-fem.text" = "2";
+
+/* Class = "UILabel"; text = "Fax:"; ObjectID = "p3o-Z3-nlf"; */
+"p3o-Z3-nlf.text" = "Fax:";
+
+/* Class = "UILabel"; text = "MoneyGram"; ObjectID = "pEC-dC-9c0"; */
+"pEC-dC-9c0.text" = "MoneyGram";
+
+/* Class = "UILabel"; text = "Purpose of Transfer"; ObjectID = "pVB-ax-I2e"; */
+"pVB-ax-I2e.text" = "Purpose of Transfer *";
+
+/* Class = "UILabel"; text = "MoneyGram"; ObjectID = "pkv-9C-RH8"; */
+"pkv-9C-RH8.text" = "MoneyGram";
+
+/* Class = "UILabel"; text = "Pay Out Method"; ObjectID = "pqI-F4-sZU"; */
+"pqI-F4-sZU.text" = "Pay Out Method *";
+
+/* Class = "UILabel"; text = "Relationship to Receiver"; ObjectID = "prS-SS-F2i"; */
+"prS-SS-F2i.text" = "Relationship to Receiver *";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "qaB-es-HNy"; */
+"qaB-es-HNy.text" = "6";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "qgW-g5-fje"; */
+"qgW-g5-fje.text" = "3";
+
+/* Class = "UILabel"; text = "MoneyGram"; ObjectID = "rFH-Gh-fTk"; */
+"rFH-Gh-fTk.text" = "MoneyGram";
+
+/* Class = "UILabel"; text = "Remittance Details"; ObjectID = "rfl-2Y-z3C"; */
+"rfl-2Y-z3C.text" = "Transfer Details";
+
+/* Class = "UILabel"; text = "Receiver Info"; ObjectID = "s4z-80-m6T"; */
+"s4z-80-m6T.text" = "Receiver Info";
+
+/* Class = "UILabel"; text = "Amout to be collected by receiver: "; ObjectID = "sG8-YB-cr6"; */
+"sG8-YB-cr6.text" = "Amount to be collected by receiver: ";
+
+/* Class = "UILabel"; text = "MoneyGram"; ObjectID = "seP-Me-jML"; */
+"seP-Me-jML.text" = "MoneyGram";
+
+/* Class = "UILabel"; text = "Marketing by SMS"; ObjectID = "stI-Th-68r"; */
+"stI-Th-68r.text" = "Marketing by SMS";
+
+/* Class = "UITextField"; placeholder = "Enter city here"; ObjectID = "utt-Wn-BRp"; */
+"utt-Wn-BRp.placeholder" = "Enter city here";
+
+/* Class = "UILabel"; text = "CountryCode"; ObjectID = "vx1-dq-vaa"; */
+"vx1-dq-vaa.text" = "CountryCode";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "w2E-Wi-uqe"; */
+"w2E-Wi-uqe.text" = "1";
+
+/* Class = "UILabel"; text = "Marketing Opt In"; ObjectID = "wCd-q3-drr"; */
+"wCd-q3-drr.text" = "Marketing Opt In";
+
+/* Class = "UILabel"; text = "MoneyGram"; ObjectID = "wUa-CL-Djw"; */
+"wUa-CL-Djw.text" = "MoneyGram";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "wUl-sd-mkq"; */
+"wUl-sd-mkq.text" = "1";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "xYf-Wx-w9g"; */
+"xYf-Wx-w9g.text" = "3";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "xiQ-R4-pyf"; */
+"xiQ-R4-pyf.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "Supporting Document"; ObjectID = "yMm-p9-8Kq"; */
+"yMm-p9-8Kq.text" = "Supporting Document";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "yXy-mN-zo9"; */
+"yXy-mN-zo9.placeholder" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "z02-MY-OGt"; */
+"z02-MY-OGt.normalTitle" = "Continue";
+
+/* Class = "UITextField"; placeholder = "Search here.."; ObjectID = "z0J-Ey-Wn8"; */
+"z0J-Ey-Wn8.placeholder" = "Search here..";
+
+/* Class = "UILabel"; text = "Payment Details"; ObjectID = "zXJ-xd-dmv"; */
+"zXJ-xd-dmv.text" = "Payment Details";
+
+/* Class = "UILabel"; text = "Wallet Number"; ObjectID = "znt-EA-4QG"; */
+"znt-EA-4QG.text" = "Wallet Number";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "zqK-Zd-npP"; */
+"zqK-Zd-npP.text" = "Address:";
+
+/* Class = "UILabel"; text = "Sent \nSuccessfully"; ObjectID = "zwZ-Rb-lNQ"; */
+"zwZ-Rb-lNQ.text" = "Sent \nSuccessfully";
+
+
+"myl-wB-qZi.text" = "OTP Verification";
+"J8h-Zp-u6w.text" = "Enter the SMS code sent to your mobile number to verify this Transfer.";
+"6th-68-5A5.text" = "Enter code";
+"guK-ZU-Jbf.placeholder" = "Enter code here";
+"etH-7s-mzn.normalTitle" = "Resend Code";
+"jco-3i-eMU.normalTitle" = "Submit";
+
+"4e1-cF-RCT.text" = "Transaction Type";

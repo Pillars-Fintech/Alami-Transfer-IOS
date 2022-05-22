@@ -1,0 +1,254 @@
+
+/* Class = "UILabel"; text = "1"; ObjectID = "02F-tY-CNt"; */
+"02F-tY-CNt.text" = "1";
+
+/* Class = "UILabel"; text = "Contact Al Alami Help Center anytime."; ObjectID = "0Tt-BX-bcB"; */
+"0Tt-BX-bcB.text" = "قم بالتواصل معنا في اي وقت";
+
+/* Class = "UILabel"; text = "Mails"; ObjectID = "1Nl-1l-p6q"; */
+"1Nl-1l-p6q.text" = "رسائلي";
+
+/* Class = "UILabel"; text = "amount"; ObjectID = "3n6-mh-ZOr"; */
+"3n6-mh-ZOr.text" = "المبلغ";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "40b-jJ-edn"; */
+"40b-jJ-edn.text" = "اعدادات عامة";
+
+/* Class = "UILabel"; text = "First Name Ar"; ObjectID = "4Hw-yN-n6y"; */
+"4Hw-yN-n6y.text" = "الاسم الاول بالعربية";
+
+/* Class = "UITextField"; placeholder = "Enter second name in Arabic"; ObjectID = "56Q-bs-LTD"; */
+"56Q-bs-LTD.placeholder" = "ادخل الاسم الثاني بالعربية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Vy-cD-qvc"; */
+"7Vy-cD-qvc.text" = "Label";
+
+/* Class = "UILabel"; text = "Mahmoud Zukari"; ObjectID = "7si-Aj-5Ui"; */
+"7si-Aj-5Ui.text" = "Mahmoud Zukari";
+
+/* Class = "UILabel"; text = "0 km"; ObjectID = "8AY-QW-5bb"; */
+"8AY-QW-5bb.text" = "0 km";
+
+/* Class = "UILabel"; text = "1,750.02"; ObjectID = "8yV-bf-gnS"; */
+"8yV-bf-gnS.text" = "1,750.02";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8zI-nq-Ahu"; */
+"8zI-nq-Ahu.text" = "Label";
+
+/* Class = "UILabel"; text = "MZ"; ObjectID = "A9E-94-Jdq"; */
+"A9E-94-Jdq.text" = "MZ";
+
+/* Class = "UILabel"; text = "Good Morning!"; ObjectID = "ANk-4p-1SC"; */
+"ANk-4p-1SC.text" = "صباح الخير!";
+
+/* Class = "UILabel"; text = "Available receive"; ObjectID = "AOE-tR-uSx"; */
+"AOE-tR-uSx.text" = "السقف الشهري للاستلام";
+
+/* Class = "UITextField"; placeholder = "Type here.."; ObjectID = "Cgs-M8-VnN"; */
+"Cgs-M8-VnN.placeholder" = "اكتب هنا..";
+
+/* Class = "UITextField"; placeholder = "Enter last name here"; ObjectID = "CyS-vB-sAQ"; */
+"CyS-vB-sAQ.placeholder" = "ادخل الاسم الاخير هنا";
+
+/* Class = "UILabel"; text = "Help Center"; ObjectID = "Eeg-Ns-KhV"; */
+"Eeg-Ns-KhV.text" = "مركز المساعدة";
+
+/* Class = "UILabel"; text = "Learn More"; ObjectID = "FUD-pe-yDH"; */
+"FUD-pe-yDH.text" = "المزيد";
+
+/* Class = "UITextField"; placeholder = "Enter second name here"; ObjectID = "GpS-gL-7u2"; */
+"GpS-gL-7u2.placeholder" = "ادخل الاسم الثاني هنا";
+
+/* Class = "UILabel"; text = "0 Active Members"; ObjectID = "HJ7-Yp-CHN"; */
+"HJ7-Yp-CHN.text" = "0";
+
+/* Class = "UILabel"; text = "Please select the service provider"; ObjectID = "I75-GA-1hG"; */
+"I75-GA-1hG.text" = "الرجاء اختيار مزود الخدمة";
+
+/* Class = "UILabel"; text = "Available send"; ObjectID = "IVI-LF-5T6"; */
+"IVI-LF-5T6.text" = "السقف الشهري للارسال";
+
+/* Class = "UILabel"; text = "1,302.02"; ObjectID = "JGH-qT-8DS"; */
+"JGH-qT-8DS.text" = "1,302.02";
+
+/* Class = "UILabel"; text = "Good Morning!"; ObjectID = "K4j-1R-AhH"; */
+"K4j-1R-AhH.text" = "صباح الخير!";
+
+/* Class = "UILabel"; text = "Send Money"; ObjectID = "KWS-eS-yIQ"; */
+"KWS-eS-yIQ.text" = "ارسل حوالة";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "L1z-Nq-Tbl"; */
+"L1z-Nq-Tbl.text" = "تواصل معنا";
+
+/* Class = "UILabel"; text = "Add new beneficiary by clicking on the button below."; ObjectID = "M9U-Sq-Qtt"; */
+"M9U-Sq-Qtt.text" = "قم باضافة مستفيد بالضغط على زر اضافة";
+
+/* Class = "UILabel"; text = "MZ"; ObjectID = "MLE-jg-onX"; */
+"MLE-jg-onX.text" = "MZ";
+
+/* Class = "UILabel"; text = "Send Money"; ObjectID = "Q42-wR-iKn"; */
+"Q42-wR-iKn.text" = "ارسل حوالة";
+
+/* Class = "UILabel"; text = "Second Name Ar"; ObjectID = "R0R-nc-teG"; */
+"R0R-nc-teG.text" = "الاسم الثاني بالعربية";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "RNp-vv-goZ"; */
+"RNp-vv-goZ.text" = "تسجيل الخروج";
+
+/* Class = "UILabel"; text = "Mahmoud Zukari"; ObjectID = "RnL-v5-eOs"; */
+"RnL-v5-eOs.text" = "Mahmoud Zukari";
+
+/* Class = "UILabel"; text = "Third Name Ar"; ObjectID = "S2J-Z2-gpL"; */
+"S2J-Z2-gpL.text" = "الاسم الثالث بالعربية";
+
+/* Class = "UITextField"; placeholder = "Enter third name here"; ObjectID = "SLk-sM-WJI"; */
+"SLk-sM-WJI.placeholder" = "ادخل الاسم الثالث هنا";
+
+/* Class = "UITabBarItem"; title = "Receive"; ObjectID = "UZc-ii-XcJ"; */
+"UZc-ii-XcJ.title" = "استلم";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "WCm-7J-1oi"; */
+"WCm-7J-1oi.text" = "من نحن";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "WrW-yo-va0"; */
+"WrW-yo-va0.text" = "رقم الهاتف المحمول *";
+
+/* Class = "UILabel"; text = "phone"; ObjectID = "XbJ-Tw-byF"; */
+"XbJ-Tw-byF.text" = "رقم الهاتف";
+
+/* Class = "UILabel"; text = "Mahmoud Zukari"; ObjectID = "XxL-4f-yAN"; */
+"XxL-4f-yAN.text" = "Mahmoud Zukari";
+
+/* Class = "UILabel"; text = "Version 1.0"; ObjectID = "Y14-6Z-Gv7"; */
+"Y14-6Z-Gv7.text" = "اصدار 1.0";
+
+/* Class = "UILabel"; text = "Share With Friends"; ObjectID = "ZOc-CB-Zvy"; */
+"ZOc-CB-Zvy.text" = "شاركنا مع اصدقاءك";
+
+/* Class = "UITabBarItem"; title = "Send"; ObjectID = "ZZp-Iw-oPg"; */
+"ZZp-Iw-oPg.title" = "ارسل";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "aH8-Ab-Lad"; */
+"aH8-Ab-Lad.placeholder" = "اختر";
+
+/* Class = "UILabel"; text = "Directions"; ObjectID = "bMc-aQ-fb8"; */
+"bMc-aQ-fb8.text" = "الاتجاهات";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bSc-Dn-pfx"; */
+"bSc-Dn-pfx.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Dashboard"; ObjectID = "cDF-1g-yY6"; */
+"cDF-1g-yY6.title" = "الصفحة الرئيسية";
+
+/* Class = "UILabel"; text = "Third Name"; ObjectID = "dem-3x-xmN"; */
+"dem-3x-xmN.text" = "الاسم الثالث";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "dn3-RX-kQF"; */
+"dn3-RX-kQF.text" = "الاسم الاخير *";
+
+/* Class = "UITextField"; placeholder = "Enter first name in Arabic"; ObjectID = "doh-D4-CHR"; */
+"doh-D4-CHR.placeholder" = "ادخل الاسم الاول بالعربية";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "eFm-Gp-Ogx"; */
+"eFm-Gp-Ogx.text" = "1";
+
+/* Class = "UITextField"; placeholder = "Enter mobile number here"; ObjectID = "f6S-NN-J4w"; */
+"f6S-NN-J4w.placeholder" = "ادخل رقم الهاتف المحمول هنا";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "f7d-Gm-5nd"; */
+"f7d-Gm-5nd.text" = "الاسم الاول *";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "g3s-fK-ss9"; */
+"g3s-fK-ss9.text" = "1";
+
+/* Class = "UILabel"; text = "Send Money"; ObjectID = "gca-sw-FPO"; */
+"gca-sw-FPO.text" = "ارسل حوالة";
+
+/* Class = "UITextField"; placeholder = "Enter first name here"; ObjectID = "ghA-8H-ojO"; */
+"ghA-8H-ojO.placeholder" = "ادخل الاسم الاول هنا";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "gxM-oJ-wzM"; */
+"gxM-oJ-wzM.text" = "الدولة *";
+
+/* Class = "UITextField"; placeholder = "Enter third name in Arabic"; ObjectID = "hwH-lT-PIH"; */
+"hwH-lT-PIH.placeholder" = "ادخل الاسم الثالث بالعربية";
+
+/* Class = "UILabel"; text = "2250 G, Mecca Street, Amman, Jordan"; ObjectID = "iH7-Gg-Awc"; */
+"iH7-Gg-Awc.text" = "2250 G, Mecca Street, Amman, Jordan";
+
+/* Class = "UILabel"; text = "JOD"; ObjectID = "kD9-qp-B3W"; */
+"kD9-qp-B3W.text" = "د.أ";
+
+/* Class = "UILabel"; text = "12 Mecca Street Branch"; ObjectID = "kNX-GW-xah"; */
+"kNX-GW-xah.text" = "12 Mecca Street Branch";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "lAO-zv-pI1"; */
+"lAO-zv-pI1.normalTitle" = "التالي";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "nQ0-7C-nnL"; */
+"nQ0-7C-nnL.normalTitle" = "متابعة";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "pCA-Is-wRA"; */
+"pCA-Is-wRA.text" = "1";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "pET-vw-i4q"; */
+"pET-vw-i4q.text" = "الصفحة الرئيسية";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "pd3-tj-zPw"; */
+"pd3-tj-zPw.title" = "المزيد";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "q9F-qA-XSY"; */
+"q9F-qA-XSY.text" = "1";
+
+/* Class = "UILabel"; text = "ZA"; ObjectID = "r61-Kg-mjY"; */
+"r61-Kg-mjY.text" = "ZA";
+
+/* Class = "UILabel"; text = "Learn More"; ObjectID = "sQn-rt-iAz"; */
+"sQn-rt-iAz.text" = "المزيد";
+
+/* Class = "UILabel"; text = "Receive Money"; ObjectID = "sr3-nE-aDv"; */
+"sr3-nE-aDv.text" = "استلم حوالة";
+
+/* Class = "UILabel"; text = "MZ"; ObjectID = "uKD-FG-LZc"; */
+"uKD-FG-LZc.text" = "MZ";
+
+/* Class = "UILabel"; text = "MZ"; ObjectID = "ugB-Gi-q73"; */
+"ugB-Gi-q73.text" = "MZ";
+
+/* Class = "UILabel"; text = "amount"; ObjectID = "w7y-T9-25f"; */
+"w7y-T9-25f.text" = "المبلغ";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "wDN-Km-D3V"; */
+"wDN-Km-D3V.text" = "الاسم";
+
+/* Class = "UITabBarItem"; title = "Branches"; ObjectID = "wi1-D1-ctO"; */
+"wi1-D1-ctO.title" = "الافرع";
+
+/* Class = "UILabel"; text = "JOD"; ObjectID = "wxw-Ak-cEU"; */
+"wxw-Ak-cEU.text" = "د.أ";
+
+/* Class = "UILabel"; text = "Add New Beneficiary"; ObjectID = "wzd-dL-0Fh"; */
+"wzd-dL-0Fh.text" = "اضف مستفيد جديد";
+
+/* Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "xBY-pu-dt1"; */
+"xBY-pu-dt1.text" = "الشروط والاحكام";
+
+/* Class = "UILabel"; text = "No Beneficiary Found"; ObjectID = "xbA-Uo-7CH"; */
+"xbA-Uo-7CH.text" = "لا يوجد متسفيدون";
+
+/* Class = "UILabel"; text = "Second Name"; ObjectID = "xsP-cS-UQG"; */
+"xsP-cS-UQG.text" = "الاسم الثاني";
+
+/* Class = "UITextField"; placeholder = "Enter last name in Arabic"; ObjectID = "yud-v6-W3n"; */
+"yud-v6-W3n.placeholder" = "ادخل الاسم الاخير بالعربية";
+
+/* Class = "UILabel"; text = "Please select the service provider"; ObjectID = "zTU-60-aDl"; */
+"zTU-60-aDl.text" = "الرجاء اختيار مزود الخدمة";
+
+/* Class = "UILabel"; text = "Last Name Ar"; ObjectID = "zUA-qB-ZH0"; */
+"zUA-qB-ZH0.text" = "الاسم الاخير بالعربية";
+
+/* Class = "UILabel"; text = "MZ"; ObjectID = "zbp-Ly-MBu"; */
+"zbp-Ly-MBu.text" = "MZ";
+
+

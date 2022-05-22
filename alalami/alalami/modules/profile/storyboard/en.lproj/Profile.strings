@@ -1,0 +1,252 @@
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "0By-y9-Bmj"; */
+"0By-y9-Bmj.text" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "0If-bt-ShY"; */
+"0If-bt-ShY.placeholder" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "0pC-d6-E16"; */
+"0pC-d6-E16.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "1AJ-5Q-61z"; */
+"1AJ-5Q-61z.text" = "Email";
+
+/* Class = "UILabel"; text = "Identification Details"; ObjectID = "1Tn-dN-FFN"; */
+"1Tn-dN-FFN.text" = "Identification Details";
+
+/* Class = "UITextField"; placeholder = "Write more details"; ObjectID = "1ew-6B-lIn"; */
+"1ew-6B-lIn.placeholder" = "Write more details";
+
+/* Class = "UITextField"; placeholder = "Your city here"; ObjectID = "1w3-HD-Npl"; */
+"1w3-HD-Npl.placeholder" = "Your city here";
+
+/* Class = "UILabel"; text = "Occupation"; ObjectID = "24M-2a-ncS"; */
+"24M-2a-ncS.text" = "Occupation";
+
+/* Class = "UILabel"; text = "Country of Birth"; ObjectID = "30C-rb-ltr"; */
+"30C-rb-ltr.text" = "Country of Birth";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "3JR-Qr-cX8"; */
+"3JR-Qr-cX8.text" = "First Name";
+
+/* Class = "UILabel"; text = "Arabic First Name"; ObjectID = "54S-wZ-tya"; */
+"54S-wZ-tya.text" = "Arabic First Name";
+
+/* Class = "UILabel"; text = "Third Name"; ObjectID = "5Hk-IA-MfG"; */
+"5Hk-IA-MfG.text" = "Third Name";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "5LN-dz-slR"; */
+"5LN-dz-slR.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UILabel"; text = "Identity Issue Date"; ObjectID = "5SI-Vd-x9H"; */
+"5SI-Vd-x9H.text" = "Identity Card Issue Date";
+
+/* Class = "UILabel"; text = "Identification Details"; ObjectID = "6Ah-mT-ceR"; */
+"6Ah-mT-ceR.text" = "Identification Details";
+
+/* Class = "UITextField"; placeholder = "Your phone here"; ObjectID = "6K5-Ij-4vf"; */
+"6K5-Ij-4vf.placeholder" = "Your phone here";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "6tf-7E-VRh"; */
+"6tf-7E-VRh.text" = "General";
+
+/* Class = "UITextField"; placeholder = "Your Arabic second name here"; ObjectID = "6vp-2O-voj"; */
+"6vp-2O-voj.placeholder" = "Your Arabic second name here";
+
+/* Class = "UILabel"; text = "Arabic Third Name"; ObjectID = "7qE-eU-Tdq"; */
+"7qE-eU-Tdq.text" = "Arabic Third Name";
+
+/* Class = "UITextField"; placeholder = "Your third name here"; ObjectID = "98o-OD-fvj"; */
+"98o-OD-fvj.placeholder" = "Your third name here";
+
+/* Class = "UILabel"; text = "Residence"; ObjectID = "AeN-Y1-Hjs"; */
+"AeN-Y1-Hjs.text" = "Residency";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "BYA-RU-ohE"; */
+"BYA-RU-ohE.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "Contact Information"; ObjectID = "Bh2-T4-DBh"; */
+"Bh2-T4-DBh.text" = "Contact Information";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Cg1-xo-PUK"; */
+"Cg1-xo-PUK.text" = "Label";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "D4M-TW-Bsd"; */
+"D4M-TW-Bsd.text" = "Change Password";
+
+/* Class = "UITextField"; placeholder = "Your building here"; ObjectID = "Dzc-g4-eOq"; */
+"Dzc-g4-eOq.placeholder" = "Your building here";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "Eha-UD-FhZ"; */
+"Eha-UD-FhZ.text" = "Last Name";
+
+/* Class = "UILabel"; text = "ID Front Side"; ObjectID = "Gnz-Ql-sF4"; */
+"Gnz-Ql-sF4.text" = "ID Front Side";
+
+/* Class = "UILabel"; text = "Building"; ObjectID = "GvO-cx-OhS"; */
+"GvO-cx-OhS.text" = "Building";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "HTF-s9-ggS"; */
+"HTF-s9-ggS.text" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "K1w-P1-k0i"; */
+"K1w-P1-k0i.text" = "Address";
+
+/* Class = "UILabel"; text = "Arabic Last Name"; ObjectID = "K5N-jF-LNa"; */
+"K5N-jF-LNa.text" = "Arabic Last Name";
+
+/* Class = "UITextField"; placeholder = "Your last name here"; ObjectID = "K7T-DW-a8W"; */
+"K7T-DW-a8W.placeholder" = "Your last name here";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "KsM-94-gZ9"; */
+"KsM-94-gZ9.text" = "Nationality";
+
+/* Class = "UILabel"; text = "Identity Issue Country"; ObjectID = "Mdz-XU-tLb"; */
+"Mdz-XU-tLb.text" = "Identity Card Issue Country";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "NIe-nJ-UJT"; */
+"NIe-nJ-UJT.text" = "Personal Information";
+
+/* Class = "UITextField"; placeholder = "70 000 0000"; ObjectID = "NMQ-Ov-vXm"; */
+"NMQ-Ov-vXm.placeholder" = "70 000 0000";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "OHs-dU-inG"; */
+"OHs-dU-inG.text" = "Gender";
+
+/* Class = "UILabel"; text = "Add your identication document photo copy from camera or gallery."; ObjectID = "P9N-aX-vQf"; */
+"P9N-aX-vQf.text" = "Add your identication document photo copy from camera or gallery.";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "PUy-i7-kWi"; */
+"PUy-i7-kWi.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "Pqa-Be-DW5"; */
+"Pqa-Be-DW5.text" = "Notifications";
+
+/* Class = "UITextField"; placeholder = "Your Arabic first name here"; ObjectID = "QBu-BS-R7L"; */
+"QBu-BS-R7L.placeholder" = "Your Arabic first name here";
+
+/* Class = "UITextField"; placeholder = "Your Arabic last name here"; ObjectID = "Rvc-a0-gJI"; */
+"Rvc-a0-gJI.placeholder" = "Your Arabic last name here";
+
+/* Class = "UILabel"; text = "Upload a photo for your face to secure your account."; ObjectID = "SGN-QO-nxo"; */
+"SGN-QO-nxo.text" = "Upload a photo for your face.";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "TvH-51-wty"; */
+"TvH-51-wty.text" = "---";
+
+/* Class = "UITextField"; placeholder = "Your national number here"; ObjectID = "UAt-Bd-Q1h"; */
+"UAt-Bd-Q1h.placeholder" = "Your national number here";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "UVT-yI-ELj"; */
+"UVT-yI-ELj.text" = "Personal Information";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "Uzt-Iv-AgH"; */
+"Uzt-Iv-AgH.text" = "City";
+
+/* Class = "UILabel"; text = "Receive"; ObjectID = "WLC-bZ-emm"; */
+"WLC-bZ-emm.text" = "Receive";
+
+/* Class = "UILabel"; text = "Contact Information"; ObjectID = "WYT-Bd-yfJ"; */
+"WYT-Bd-yfJ.text" = "Contact Information";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "XZn-gJ-jFK"; */
+"XZn-gJ-jFK.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "Your street here"; ObjectID = "Xkr-Ma-fd0"; */
+"Xkr-Ma-fd0.placeholder" = "Your street here";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "Yla-mZ-CiP"; */
+"Yla-mZ-CiP.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UILabel"; text = "Identity Expiry Date"; ObjectID = "aUk-V1-U0j"; */
+"aUk-V1-U0j.text" = "Identity Card Expiry Date";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "cMd-dw-6d4"; */
+"cMd-dw-6d4.text" = "---";
+
+/* Class = "UILabel"; text = "Identity Number"; ObjectID = "cdM-7Y-buY"; */
+"cdM-7Y-buY.text" = "Identity Card Number";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "cnv-ch-HiF"; */
+"cnv-ch-HiF.placeholder" = "Select";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "cyu-jJ-rtl"; */
+"cyu-jJ-rtl.placeholder" = "Select";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "dZj-i1-ukP"; */
+"dZj-i1-ukP.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UILabel"; text = "Date of Birth"; ObjectID = "du0-OB-L9z"; */
+"du0-OB-L9z.text" = "Date of Birth";
+
+/* Class = "UILabel"; text = "Arabic Second Name"; ObjectID = "dwW-Mh-NVY"; */
+"dwW-Mh-NVY.text" = "Arabic Second Name";
+
+/* Class = "UIButton"; normalTitle = "Order Your Card"; ObjectID = "equ-mO-Pe9"; */
+"equ-mO-Pe9.normalTitle" = "Order Your Card";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "gOJ-XH-Mo9"; */
+"gOJ-XH-Mo9.text" = "Select";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "gRZ-5c-hDb"; */
+"gRZ-5c-hDb.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "Send"; ObjectID = "guH-IF-Pob"; */
+"guH-IF-Pob.text" = "Send";
+
+/* Class = "UILabel"; text = "Select Your Country"; ObjectID = "i54-Ku-Efh"; */
+"i54-Ku-Efh.text" = "Select Your Country";
+
+/* Class = "UITextField"; placeholder = "Your second name here"; ObjectID = "ior-pE-9Et"; */
+"ior-pE-9Et.placeholder" = "Your second name here";
+
+/* Class = "UITextField"; placeholder = "Your email address here"; ObjectID = "jZ7-wi-l0V"; */
+"jZ7-wi-l0V.placeholder" = "Your email address here";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "mc4-u9-Pl3"; */
+"mc4-u9-Pl3.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "ID Back Side"; ObjectID = "o1d-Tv-wcE"; */
+"o1d-Tv-wcE.text" = "ID Back Side";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "oEg-Xk-4QI"; */
+"oEg-Xk-4QI.text" = "Phone";
+
+/* Class = "UILabel"; text = "Street"; ObjectID = "obE-UZ-Vhp"; */
+"obE-UZ-Vhp.text" = "Street";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "oqc-lg-gN4"; */
+"oqc-lg-gN4.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pC7-2M-wQG"; */
+"pC7-2M-wQG.text" = "Label";
+
+/* Class = "UILabel"; text = "Account User Name"; ObjectID = "pIF-mP-VTD"; */
+"pIF-mP-VTD.text" = "Account User Name";
+
+/* Class = "UILabel"; text = "Your Image"; ObjectID = "pLr-Y6-Mhv"; */
+"pLr-Y6-Mhv.text" = "Your Image";
+
+/* Class = "UITextField"; placeholder = "Your Arabic third name here"; ObjectID = "qRl-MR-pY9"; */
+"qRl-MR-pY9.placeholder" = "Your Arabic third name here";
+
+/* Class = "UITextField"; placeholder = "Your identity number here"; ObjectID = "s7M-vI-PXM"; */
+"s7M-vI-PXM.placeholder" = "Your identity number here";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "tXI-rI-IgW"; */
+"tXI-rI-IgW.text" = "Profile";
+
+/* Class = "UILabel"; text = "Identity Type"; ObjectID = "tqc-ct-YSC"; */
+"tqc-ct-YSC.text" = "Identity Type";
+
+/* Class = "UILabel"; text = "Second Name"; ObjectID = "wEp-5f-lLh"; */
+"wEp-5f-lLh.text" = "Second Name";
+
+/* Class = "UITextField"; placeholder = "Your first name here"; ObjectID = "wS2-qA-VJ4"; */
+"wS2-qA-VJ4.placeholder" = "Your first name here";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "wnb-Pv-r0Y"; */
+"wnb-Pv-r0Y.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "National Number"; ObjectID = "zq7-Ec-gnH"; */
+"zq7-Ec-gnH.text" = "National Number";

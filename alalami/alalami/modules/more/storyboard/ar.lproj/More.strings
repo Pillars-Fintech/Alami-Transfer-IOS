@@ -1,0 +1,92 @@
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "2RE-ul-zJv"; */
+"2RE-ul-zJv.normalTitle" = "تاكيد";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Bhd-Jc-Zj2"; */
+"Bhd-Jc-Zj2.text" = "الاسم";
+
+/* Class = "UITextField"; placeholder = "Confirm your new password"; ObjectID = "GBK-Pi-d9i"; */
+"GBK-Pi-d9i.placeholder" = "تاكيد كلمة المرور الجديدة";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "HAE-10-ceK"; */
+"HAE-10-ceK.text" = "التاريخ";
+
+/* Class = "UITextField"; placeholder = "Enter your current password"; ObjectID = "K7O-Hg-R4L"; */
+"K7O-Hg-R4L.placeholder" = "ادخل كلمة المرور الحالية";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "LO1-tY-Xfn"; */
+"LO1-tY-Xfn.text" = "العنوان";
+
+/* Class = "UILabel"; text = "Enter your current & new passwords to continue"; ObjectID = "OBv-3Q-lgX"; */
+"OBv-3Q-lgX.text" = "تغيير كلمة المرور لحسابك";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "QV3-5n-v1N"; */
+"QV3-5n-v1N.text" = "تغيير كلمة المرور";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "RHE-jM-0tJ"; */
+"RHE-jM-0tJ.text" = "الرسالة";
+
+/* Class = "UITextField"; placeholder = "Your name here"; ObjectID = "WAt-fE-Ttw"; */
+"WAt-fE-Ttw.placeholder" = "ادخل الاسم هنا";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "XwF-5Y-eES"; */
+"XwF-5Y-eES.text" = "كلمة المرور الحالية";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "YL9-Tn-NRZ"; */
+"YL9-Tn-NRZ.normalTitle" = "ارسل";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "aJF-dg-lhy"; */
+"aJF-dg-lhy.text" = "كلمة المرور الجديدة";
+
+/* Class = "UILabel"; text = "Mails"; ObjectID = "bGH-f9-vvd"; */
+"bGH-f9-vvd.text" = "رسائلي";
+
+/* Class = "UILabel"; text = "Mails"; ObjectID = "cKn-iE-o9X"; */
+"cKn-iE-o9X.text" = "رسائلي";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "eAM-0W-nnd"; */
+"eAM-0W-nnd.text" = "اعدادات عامة";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "fPe-Q1-d57"; */
+"fPe-Q1-d57.text" = "التاريخ";
+
+/* Class = "UILabel"; text = "Turn on-off notifications"; ObjectID = "n3Y-aE-IUI"; */
+"n3Y-aE-IUI.text" = "تفعيل - الغاء تفعيل الاشعارات";
+
+/* Class = "UITextField"; placeholder = "Your email here"; ObjectID = "nuP-eR-qDV"; */
+"nuP-eR-qDV.placeholder" = "ادخل البريد الاكتروني هنا";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "oqE-qi-Cr7"; */
+"oqE-qi-Cr7.text" = "رقم الهاتف المحمول";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "qB4-dn-AMP"; */
+"qB4-dn-AMP.text" = "البريد الاكتروني";
+
+/* Class = "UILabel"; text = "Confirm New Password"; ObjectID = "qoL-9f-nRd"; */
+"qoL-9f-nRd.text" = "تاكيد كلمة المرور الجديدة";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "rwV-nj-6vz"; */
+"rwV-nj-6vz.text" = "اللغة";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "sxc-S0-3og"; */
+"sxc-S0-3og.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Subject"; ObjectID = "uVJ-oY-e0o"; */
+"uVJ-oY-e0o.text" = "العنوان";
+
+/* Class = "UITextField"; placeholder = "Enter your new password"; ObjectID = "veN-ky-lql"; */
+"veN-ky-lql.placeholder" = "ادخل كلمة المرور الجديدة";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "wwq-J6-Yd5"; */
+"wwq-J6-Yd5.text" = "الاشعارات";
+
+/* Class = "UILabel"; text = "Touch ID"; ObjectID = "y84-Yf-i7z"; */
+"y84-Yf-i7z.text" = "بصمة الدخول";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "zJv-Xf-ibW"; */
+"zJv-Xf-ibW.text" = "تواصل معنا";
+
+/* Class = "UITextField"; placeholder = "Your phone here"; ObjectID = "zUm-Jg-mmM"; */
+"zUm-Jg-mmM.placeholder" = "ادخل رقم الهاتف هنا";
+
+"DW3-XD-gUK.text" = "نحن نلتزم بحماية بياناتك";

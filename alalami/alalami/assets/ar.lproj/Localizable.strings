@@ -1,0 +1,397 @@
+/* 
+ Localizable.strings
+ alalami
+ 
+ Created by Zaid Khaled on 8/31/20.
+ Copyright © 2020 technzone. All rights reserved.
+ */
+
+"alert" = "العلمي للخدمات المالية";
+"appname" = "العلمي";
+"no_internet_connection" = "لا يوجد اتصال بالشبكة!";
+"enter_valid_mobile" = "ادخل رقم محمول صحيح مثال (700000000)";
+"enter_valid_password" = "ادخل كلمة مرور صحيحة";
+"enter_valid_firstname" = "ادخل الاسم الاول";
+"enter_valid_middlename" = "ادخل الاسم الثاني";
+"enter_valid_thirdname" = "ادخل الاسم الثالث";
+"enter_valid_familyname" = "ادخل الاسم الاخير";
+"select_valid_country" = "اختر الدولة";
+"select_birthdate" = "اختر تاريخ الميلاد";
+"select_nationality" = "اختر الجنسية";
+"select_occupation" = "اختر المهنة";
+"select_birth_date" = "اختر تاريخ";
+"done" = "تم";
+"cancel" = "الغاء";
+
+"add_image_pic_title" = "اضف صور";
+"add_image_pic_message" = "اضف صور من الكاميرا او معرض الصور";
+"add_image_pic_message_no_gallery" = "اضف صور من الكاميرا";
+"camera" = "الكاميرا";
+"gallery" = "المعرض";
+
+"resident" = "مقيم";
+"not_resident" = "غير مقيم";
+
+"next" = "التالي";
+"lets_get_started" = "ابدأ الان!";
+
+"intro1_title" = "العلمي";
+"intro1_desc" = "تطبيق العلمي للصرافة";
+
+"intro2_title" = "العلمي";
+"intro2_desc" = "تطبيق العلمي للصرافة";
+
+"intro3_title" = "العلمي";
+"intro3_desc" = "تطبيق العلمي للصرافة";
+
+"confirm_your_password" = "قم بتاكيد كلمة المرور من ٨ مقاطع";
+"passwords_missmatch" = "لم تتطابق كلمتا المرور";
+"enter_email_address" = "ادخل البريد الاكتروني";
+"enter_valid_email" = "ادخل بريد الكتروني صحيح";
+
+"select_reason_of_reg" = "اختر سبب التسجيل للمتابعة";
+
+"select_id_type" = "اختر نوع الاثبات";
+"select_issue_country" = "اختر بلد اصدار الاثبات";
+"enter_valid_id_number" = "ادخل رقم الاثبات";
+"select_issue_date" = "اختر تاريخ اصدار الاثبات";
+"select_expiry_date" = "اختر تاريخ انتهاء الاثبات";
+"select_residence" = "اختر الاقامة";
+"add_id_front_image" = "اضف الجهة الامامية للاثبات";
+"add_id_back_image" = "اضف الجهة الخلفية للاثبات";
+"enter_valid_city" = "ادخل اسم المحافظة";
+"enter_valid_street" = "ادخل اسم الشارع";
+"enter_valid_building" = "ادخل رقم المبنى";
+"enter_valid_address" = "ادخل العنوان";
+
+"add_face_image" = "اضف صورتك الشخصية";
+"add_face_video" = "قم بتسجيل فيديو ٣ ثواني لوجهك";
+"enter_valid_national_number" = "ادخل الرقم الوطني";
+
+"confirm_cancel_vertification" = "هل انت متاكد من الغاء عملية التحقق من الرمز؟";
+"yes" = "نعم";
+"no" = "لا";
+
+"enter_valid_password_regex" = "يجب ان تحتوي كلمة المرور على حرف مكبر، رمز، رقم، ٨ خانات";
+
+
+"enter_pin_digits" = "ادخل رمز صحيح";
+
+"enter_valid_id_number_regex" = "ادخل رقم هوية صحيح مثال (xxx00000)";
+
+"service_send_unavailable" = "هذه الخدمة غير متاحة لارسال حوالات";
+"service_receive_unavailable" = "هذه الخدمة غير متاحة لاستلام حوالات";
+
+"exclude_fee" = "غير شامل العمولة";
+"include_fee" = "شامل العمولة";
+
+"select_fee_type" = "اختر نوع العمولة";
+"select_destination_country" = "اختر البلد المرسل اليه";
+"enter_amount" = "ادخل المبلغ";
+
+//attributes
+"valid_receive_amount" = "مبلغ الاستلام الصحيح:";
+"valid_receive_currency" = "عملة مبلغ الاستلام:";
+"valid_exchange" = "Valid Exchange:";
+"receive_country" = "Receive Country:";
+"delivery_option" = "Delivery Option:";
+"send_amount" = "Send Amount:";
+"send_currency" = "Send Currency:";
+"total_send_fees" = "Total Send Fees:";
+"total_receive_fees" = "Total Receive Fees:";
+"total_receive_amount" = "Total Receive Amount:";
+"total_receive" = "Total Receive:";
+"payout_currency" = "Payout Currency:";
+
+
+"enter_sender_region" = "ادخل منطقة المرسل";
+"enter_sender_city" = "ادخل مدينة المرسل";
+"enter_sender_street" = "ادخل شارع المرسل";
+"enter_sender_building_name" = "ادخل اسم مبنى المرسل";
+"enter_sender_building_number" = "ادخل رقم مبنى المرسل";
+"enter_sender_apartment" = "ادخل رقم شقة المرسل";
+"enter_sender_address" = "ادخل عنوان المرسل";
+"enter_receiver_region" = "ادخل منطقة المستلم";
+"enter_receiver_city" = "ادخل مدينة المستلم";
+"enter_receiver_street" = "ادخل شارع المستلم";
+"enter_receiver_building_name" = "ادخل اسم مبنى المستلم";
+"enter_receiver_building_number" = "ادخل رقم مبنى المستلم";
+"enter_receiver_apartment" = "ادخل رقم شقة المستلم";
+"enter_receiver_address" = "ادخل عنوان المستلم";
+
+"select_wallet_provider" = "اختر مزود الخدمة";
+"enter_wallet_number" = "ادخل رقم المحفظة";
+
+"select_reason_of_transfer" = "اختر سبب الحوالة";
+"select_relationship_to_receiver" = "اختر العلاقة";
+"select_relationship" = "اختر العلاقة";
+"select_source_of_fund" = "اختر مصدر الاموال";
+
+"select_payout_option" = "اختر طريقة دفع اولاً";
+
+"first_name" = "الاسم الاول";
+"second_name" = "الاسم الثاني";
+"third_name" = "الاسم الثالث";
+"last_name" = "الاسم الاخير";
+
+"you_must_agree_terms" = "قم بقراءة وقبول شروط الخدمة بالاسفل";
+
+"select_branch" = "اختر الفرع";
+"anywhere_payout" = "اي من فروع العلمي للخدمات المالية";
+
+"select_branch_first" = "اختر الفرع اولاً";
+"id_is_expired" = "البطاقة منتهية الصلاحية";
+
+"enter_first_name" = "ادخل الاسم الاول";
+"enter_second_name" = "ادخل الاسم الثاني";
+"enter_third_name" = "ادخل الاسم الثالث";
+"enter_last_name" = "ادخل الاسم الاخير";
+"enter_mobile_number" = "ادخل رقم الهاتف المحمول";
+
+"screenshot_saved_successfully" = "تم حفظ الصورة بنجاح";
+"jod" = "د.أ";
+
+"enter_remittance_no" = "ادخل رقم الحوالة";
+"enter_expected_amount" = "ادخل المبلغ المتوقع";
+"enter_sender_name" = "ادخل اسم المرسل";
+
+"sender_name" = "اسم المرسل";
+
+"select_bank" = "اختر البنك اولاً";
+"enter_iban" = "ادخل ال اي بان";
+"enter_account_number" = "ادخل رقم الحساب";
+
+"money_gram" = "MoneyGram";
+"add_reward_desc" = "هل تود اضافة معلوماتك الى برنامج جائزة MoneyGram؟";
+
+"your_moneygram_code_is" = "رقم جائزة MoneyGram هو:";
+
+"ok" = "موافق";
+"is_required" = "مطلوب";
+
+"receive_request_sent" = "ارسال طلب تحديث بياناتك الشخصية";
+
+
+"remittance_details" = "تفاصيل الحوالة";
+"destination_country" = "البلد المرسل اليه";
+"amount" = "المبلغ";
+"fee_type" = "نوع العمولة";
+"send_currency" = "عملة الارسال";
+"receive_currency" = "عملة الاستلام";
+"service_option" = "نوع الخدمة";
+
+"receiver_details" = "تفاصيل المستلم";
+"phone" = "رقم الهاتف";
+"country" = "الدولة";
+"purpose_of_transfer" = "سبب التحويل";
+"source_of_funds" = "مصدر الاموال";
+"relation_ship_to_receiver" = "العلاقة";
+"bank" = "البنك";
+"account_number" = "رقم الحساب";
+"iban" = "اي بان";
+"sender_details" = "تفاصيل المرسل";
+
+"receiver" = "المستلم";
+"sender" = "المرسل";
+
+"select_language" = "اختر اللغة";
+
+"enter_current_password" = "ادخل كلمة المرور الحالية";
+"enter_new_password" = "ادخل كلمة المرور الجديدة";
+"confirm_new_password" = "قم بتاكيد كلمة المرور الجديدة";
+"password_changed_successfully" = "تم تغيير كلمة المرور بنجاح";
+
+"touch_id" = "بصمة الاصبع";
+"face_id" = "بصمة الوجه";
+"version" = "اصدار";
+
+"confirm_logout" = "هل انت متاكد من تسجيل الخروج؟";
+"logout" = "تسجيل الخروج";
+
+"select_your_country" = "اختر دولتك";
+"enter_phone_first" = "ادخل رقم الهاتف اولاً";
+
+"enter_message_here" = "ادخل الرسالة هنا";
+"message_sent_successfully" = "تم ارسال الرسالة بنجاح";
+"session_expired" = "تم انتهاء تسجيل الدخول";
+"login" = "تسجيل الدخول";
+
+
+"filter_processing" = "قيد التنفيذ";
+"filter_approved" = "تم الموافقة";
+"filter_rejected" = "تم الرفض";
+"filter_cancelled" = "ملغاة";
+"filter_pending" = "قيد الاجراء";
+"filter_ready" = "جاهزة";
+"filter_received" = "مستلمة";
+
+"select_date" = "اختر تاريخ";
+"OR" = "أو";
+
+"male" = "ذكر";
+"female" = "انثى";
+
+"confirm_cancel_remittance" = "هل انت متاكد من الغاء هذه الحوالة؟";
+
+"you_need_agree_terms" = "يجب الموافقة على الشروط والاحكام للمتابعة";
+
+"hereby_declare" = "انا، بموجب القانون اقر ان";
+
+"i_agree" = "انا اوافق";
+
+"confirm" = "تاكيد";
+
+"passport_image" = "صورة الجواز *";
+"resident_image" = "صورة الاقامة *";
+"id_front_side" = "الجهة الامامية للاثبات *";
+"id_back_side" = "الجهة الخلفية للاثبات *";
+
+"you_need_agree_hereby" = "يجب الموفقة على شروط انشاء حساب";
+
+"good_morning" = "صباح الخير";
+"good_evening" = "مساء الخير";
+
+"send_money" = "ارسل حوالة";
+"receive_money" = "استلم حوالة";
+"history" = "الحوالات السابقة";
+"order_your_card" = "اطلب بطاقتك";
+
+"home" = "الصفحة الرئيسية";
+"settings" = "الاعدادات";
+"branches" = "الافرع";
+"whatsapp" = "وتس اب";
+"add_beneficiary" = "اضف مستفيد";
+
+"coming_soon" = "اطلب بطاقة الدفع الدولية الخاصة بك لإتمام عمليات الشراء الإلكترونية والعديد من الخدمات الأخرى\nاتصل على 065504545";
+
+
+"active_members" = "المستفيدون";
+
+"terms_and_conditions" = "الشروط والاحكام";
+"help_center" = "مركز المساعدة";
+"about_us" = "من نحن";
+
+"continueUsing" = "المتابعة ب";
+"googleMaps" = "خرائط جوجل";
+
+"send_notifications" = "اشعارات الارسال";
+"receive_notifications" = "اشعارات الاستلام";
+"profile_notifications" = "اشعارات الملف الشخصي";
+"general_notifications" = "اشعارات عامة";
+"notifications" = "الاشعارات";
+
+"select_rejection_reason" = "اختر سبب الرفض";
+"select_ammendment_reason" = "اختر سبب التمديد";
+
+"call_support" = "اتصل بالدعم";
+"website" = "موقعنا الاكتروني";
+"twitter" = "التويتر";
+"instagram" = "الانستاغرام";
+"facebook" = "الفيس بوك";
+
+"confirm_go_home" = "لن يتم حفظ المعلومات المدخلة، هل انت متاكد من الذهاب الى الرئيسية؟";
+"go_home" = "الذهاب للرئيسية";
+
+"select_country" = "اختر الدولة اولاً";
+
+"send_disabled" = "ارسال حوالة غير متاح حالياً";
+"receive_disabled" = "استلام حوالة غير متاح حالياً";
+
+"receive_currency" = "عملة الاستلام";
+"payout_method" = "";
+"service_provider" = "مزود الخدمة";
+
+"id_placeholder_jordan" = "ادخل رقم الاثبات مثال (xxx00000)";
+"id_placeholder_other" = "ادخل رقم الاثبات";
+
+"select_payin_method" = "اختر طريقة الدفع";
+
+"text_regex_firstname" = "يجب ان لا يحتوي الاسم الاول على رموز خاصة";
+
+//special chars validations
+"text_regex_firstname" = "يجب ان لا يحتوي الاسم الاول على رموز خاصة";
+"text_regex_middlename" = "يجب ان لا يحتوي الاسم الثاني على رموز خاصة";
+"text_regex_thirdname" = "يجب ان لا يحتوي الاسم الثالث على رموز خاصة";
+"text_regex_familyname" = "يجب ان لا يحتوي الاسم الاخير على رموز خاصة";
+"text_regex_city" = "يجب ان لا يحتوي اسم المحافظة على رموز خاصة";
+"text_regex_mobile" = "يجب ان لا يحتوي رقم الهاتف المحمول على رموز خاصة";
+"text_regex_phone" = "يجب ان لا يحتوي رقم الهاتف على رموز خاصة";
+"text_regex_region" = "يجب ان لا يحتوي اسم الحي على رموز خاصة";
+"text_regex_walletnumber" = "يجب ان لا يحتوي رقم المحفظة على رموز خاصة";
+"text_regex_iban" = "يجب ان لا يحتوي الاي بان على رموز خاصة";
+"text_regex_accountnumber" = "يجب ان لا يحتوي رقم الحساب على رموز خاصة";
+"text_regex_remittanceno" = "يجب ان لا يحتوي رقم الحوالة على رموز خاصة";
+"text_regex_sendername" = "يجب ان لا يحتوي اسم المرسل على رموز خاصة";
+"text_regex_name" = "يجب ان لا يحتوي الاسم على رموز خاصة";
+"text_regex_idnumber" = "يجب ان لا يحتوي رقم البطاقة على رموز خاصة";
+"text_regex_nationalnumber" = "يجب ان لا يحتوي الرقم الوطني على رموز خاصة";
+"must_not_contain_special_chars" = "يجب ان لا يحتوي على رموز خاصة";
+
+"text_regex_street" = "يجب ان لا يحتوي الشارع على رموز خاصة";
+"text_regex_building" = "يجب ان يحتوي رقم المبنى على رموز خاصة";
+"text_regex_message" = "يجب ان لا تحتوي الرسالة على رموز خاصة";
+
+
+"enter_your_name" = "ادخل اسمك";
+"enter_your_phone" = "ادخل رقم هاتفك";
+"enter_your_message" = "ادخل رسالتك";
+
+"home_btn" = "الرئيسية";
+
+"arabic_content_only" = "يجب ان تكون كافة المعلومات المدخلة باللغة الإنجليزية";
+
+"text_regex_building_name" = "يجب ان لا يحتوي اسم المبنى على رموز خاصة";
+"text_regex_building_number" = "يجب ان لا يحتوي رقم المبنى على رموز خاصة";
+"text_regex_apartment" = "يجب ان لا يحتوي رقم الشقة على رموز خاصة";
+"text_regex_address" = "يجب ان لا يحتوي العنوان على رموز خاصة";
+
+"not_available" = "غير متوفر";
+
+"jordan" = "الأردن";
+
+"first_name_ph" = "ادخل الاسم الاول هنا";
+"second_name_ph" = "ادخل الاسم الثاني هنا";
+"third_name_ph" = "ادخل الاسم الثالث هنا";
+"last_name_ph" = "ادخل الاسم الاخير هنا";
+
+"does_not_match_format" = "لا يطابق الصيغة المطلوبة";
+
+"confirm_receiver_name" = "يرجى التأكيد على اسم المستفيد";
+
+"send" = "مرسلة";
+"receive" = "مستلمة";
+
+"amount_by_jod" = "المبلغ بالدينار الأردني *";
+"received_amount" = "المبلغ المستلم";
+"Amount In Country" = "المبلغ في الدولة";
+"Amount In" =  "المبلغ في";
+
+
+"Send Money" = "المبلغ المرسل";
+"Received of payment" = "المبلغ المستلم";
+"Pay Out Method" = "طريقة الاستلام";
+"warning" = "تحذير";
+"Remittance Details" = "تفاصيل الحوالة";
+"Please enter the amount in Jordanian Dinar or foreign currency" = "يرجى ادخال المبلغ بعملة الدينار الاردني او بعملة الدولة المرسل اليها";
+"change_password" = "تغيير كلمة المرور";
+
+
+"Enter the amount you need to send by JOD \n \n OR \n \n The amount you need to receive by destination country currency" = "ادخل المبلغ المراد ارساله بعملة الدينار الاردني
+ او
+المبلغ المراد استلامه بعملة الدولة المرسل اليها";
+
+
+
+"Mobile Number" = "رقم الهاتف المحمول";
+"Enter Mobile Number Here" = "أدخل رقم الهاتف المحمول هنا";
+"Recipient's IBAN or Alias" = "IBAN";
+"Enter IBAN or Alias here" = "ادخل رقم حساب IBAN هنا";
+"enter_ibans" = "ادخل رقم حساب IBAN الخاص بك";
+"daman"="الضمان الاجتماعي";
+
+"daman_CSSINumber" = "أدخل رقم الدفع هنا";
+"daman_ReferenceNumber" = "الرجاء إدخال الرقم المرجعي";
+"daman_radioBuuon" = "الرجاء اختيار أفراد أو منشآت";
+"daman_PaymentType" = "الرجاء إدخال نوع الدفع";
+"areـyouـsureـyouـwantـtoـcancelـthisـtransaction" = "هل أنت متأكد أنك تريد إلغاء هذه الحوالة؟";
+"transfer_Details" = "تفاصيل الحوالة";

@@ -1,0 +1,147 @@
+
+/* Class = "UITextField"; placeholder = "Enter third name in Arabic"; ObjectID = "0Zt-SD-4ZU"; */
+"0Zt-SD-4ZU.placeholder" = "ادخل اسمك الثالث بالعربية";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "1OW-XK-x6J"; */
+"1OW-XK-x6J.placeholder" = "اختر";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2mP-EE-JD5"; */
+"2mP-EE-JD5.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Remittance"; ObjectID = "3nn-nx-pq1"; */
+"3nn-nx-pq1.normalTitle" = "الحوالة";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "64Y-Ku-b14"; */
+"64Y-Ku-b14.normalTitle" = "حفظ";
+
+/* Class = "UITextField"; placeholder = "Enter last name in Arabic"; ObjectID = "6aD-C8-4Ls"; */
+"6aD-C8-4Ls.placeholder" = "ادخل اسمك الاخير بالعربية";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "6zQ-3S-CBc"; */
+"6zQ-3S-CBc.normalTitle" = "تطبيق";
+
+/* Class = "UILabel"; text = "Amendment Request"; ObjectID = "79O-kq-HAR"; */
+"79O-kq-HAR.text" = "طلب تمديد";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "Ahg-B2-WdA"; */
+"Ahg-B2-WdA.normalTitle" = "اعادة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AzX-f3-gaA"; */
+"AzX-f3-gaA.text" = "Label";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "BUl-sd-VY6"; */
+"BUl-sd-VY6.text" = "رقم الهاتف المحمول";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "Bse-PE-2Qa"; */
+"Bse-PE-2Qa.normalTitle" = "مرسلة";
+
+/* Class = "UILabel"; text = "From Date"; ObjectID = "CFk-iH-8op"; */
+"CFk-iH-8op.text" = "من تاريخ";
+
+/* Class = "UITextField"; placeholder = "Enter first name in Arabic"; ObjectID = "ChS-6X-poN"; */
+"ChS-6X-poN.placeholder" = "ادخل اسمك الاول بالعربية";
+
+/* Class = "UILabel"; text = "#rem_no"; ObjectID = "GGb-Ci-TLP"; */
+"GGb-Ci-TLP.text" = "#rem_no";
+
+/* Class = "UILabel"; text = "Last Name Ar"; ObjectID = "Gpe-Ze-5fR"; */
+"Gpe-Ze-5fR.text" = "الاسم الاخير بالعربية";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "HBa-NK-JyW"; */
+"HBa-NK-JyW.text" = "التفاصيل";
+
+/* Class = "UITextField"; placeholder = "Enter second name here"; ObjectID = "IDZ-EL-l5j"; */
+"IDZ-EL-l5j.placeholder" = "ادخل اسمك الثاني";
+
+/* Class = "UILabel"; text = "Report"; ObjectID = "M32-Fi-wZB"; */
+"M32-Fi-wZB.text" = "التقرير";
+
+/* Class = "UIButton"; normalTitle = "Receive"; ObjectID = "NQ5-Kj-5OM"; */
+"NQ5-Kj-5OM.normalTitle" = "مستلمة";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "OGr-b6-Pot"; */
+"OGr-b6-Pot.text" = "الاسم الاول";
+
+/* Class = "UITextField"; placeholder = "Your remittance number here"; ObjectID = "RZc-os-z5J"; */
+"RZc-os-z5J.placeholder" = "ادخل رقم الحوالة هنا";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "Skj-5C-mC7"; */
+"Skj-5C-mC7.text" = "السابقة";
+
+/* Class = "UILabel"; text = "Mahmoud Zukari"; ObjectID = "VLo-A8-BA1"; */
+"VLo-A8-BA1.text" = "Mahmoud Zukari";
+
+/* Class = "UITextField"; placeholder = "Enter first name here"; ObjectID = "Vf7-Mv-CkC"; */
+"Vf7-Mv-CkC.placeholder" = "ادخل اسمك الاول هنا";
+
+/* Class = "UITextField"; placeholder = "Enter third name here"; ObjectID = "XMt-yf-cYJ"; */
+"XMt-yf-cYJ.placeholder" = "ادخل اسمك الثالث هنا";
+
+/* Class = "UILabel"; text = "datetime"; ObjectID = "YcY-7F-DGB"; */
+"YcY-7F-DGB.text" = "التاريخ والوقت";
+
+/* Class = "UILabel"; text = "Third Name"; ObjectID = "a7U-ln-dWe"; */
+"a7U-ln-dWe.text" = "الاسم الثالث";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "anA-Ho-C8t"; */
+"anA-Ho-C8t.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UILabel"; text = "Remittance Number"; ObjectID = "asb-em-xs2"; */
+"asb-em-xs2.text" = "رقم الحوالة";
+
+/* Class = "UILabel"; text = "First Name Ar"; ObjectID = "cJA-rS-Alr"; */
+"cJA-rS-Alr.text" = "الاسم الاول بالعربية";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "dhp-M3-uCp"; */
+"dhp-M3-uCp.normalTitle" = "الغاء";
+
+/* Class = "UILabel"; text = "Third Name Ar"; ObjectID = "fag-1H-xOt"; */
+"fag-1H-xOt.text" = "الاسم الثالث بالعربية";
+
+/* Class = "UITextField"; placeholder = "Enter mobile number here"; ObjectID = "gFq-JG-B52"; */
+"gFq-JG-B52.placeholder" = "ادخل رقم الهاتف المحمول هنا";
+
+/* Class = "UILabel"; text = "Remittance Status"; ObjectID = "gZC-00-4V0"; */
+"gZC-00-4V0.text" = "حالة الحوالة";
+
+/* Class = "UILabel"; text = "Rejected"; ObjectID = "gmj-zz-rx8"; */
+"gmj-zz-rx8.text" = "مرفوض";
+
+/* Class = "UILabel"; text = "Remittance Details"; ObjectID = "h6X-Rv-HW8"; */
+"h6X-Rv-HW8.text" = "نفاصيل الحوالة";
+
+/* Class = "UIButton"; normalTitle = "Request Amendment"; ObjectID = "hEB-ZT-4Uo"; */
+"hEB-ZT-4Uo.normalTitle" = "طلب تمديد";
+
+/* Class = "UILabel"; text = "Second Name Ar"; ObjectID = "hK1-LQ-lLH"; */
+"hK1-LQ-lLH.text" = "الاسم الثاني بالعربية";
+
+/* Class = "UILabel"; text = "26/07/2019/USA"; ObjectID = "kjs-CU-lV0"; */
+"kjs-CU-lV0.text" = "26/07/2019/USA";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "mQO-0e-lnz"; */
+"mQO-0e-lnz.text" = "الدولة";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "mgH-fy-srk"; */
+"mgH-fy-srk.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UIButton"; normalTitle = "Receiver"; ObjectID = "paJ-Fv-T7c"; */
+"paJ-Fv-T7c.normalTitle" = "المستلم";
+
+/* Class = "UITextField"; placeholder = "Enter last name here"; ObjectID = "qXv-Lu-LdW"; */
+"qXv-Lu-LdW.placeholder" = "ادخل الاسم الاخير هنا";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "rL4-v6-qNB"; */
+"rL4-v6-qNB.text" = "الاسم الاخير";
+
+/* Class = "UILabel"; text = "Second Name"; ObjectID = "rjn-p8-l4q"; */
+"rjn-p8-l4q.text" = "الاسم الثاني";
+
+/* Class = "UILabel"; text = "120 JD"; ObjectID = "ubT-4B-pgD"; */
+"ubT-4B-pgD.text" = "120 JD";
+
+/* Class = "UILabel"; text = "To Date"; ObjectID = "vvn-gy-MLm"; */
+"vvn-gy-MLm.text" = "الى تاريخ";
+
+/* Class = "UITextField"; placeholder = "Enter second name in Arabic"; ObjectID = "wKs-V9-Ktq"; */
+"wKs-V9-Ktq.placeholder" = "ادخل الاسم الثاني بالعربية";

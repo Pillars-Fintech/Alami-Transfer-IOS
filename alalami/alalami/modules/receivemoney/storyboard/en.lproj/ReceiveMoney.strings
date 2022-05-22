@@ -1,0 +1,151 @@
+
+/* Class = "UILabel"; text = "Pay Out Method"; ObjectID = "07k-ut-1cv"; */
+"07k-ut-1cv.text" = "Pay Out Method *";
+
+/* Class = "UITextField"; placeholder = "Enter address details here"; ObjectID = "11D-lD-RLj"; */
+"11D-lD-RLj.placeholder" = "Enter address details here";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "1a2-E9-d6q"; */
+"1a2-E9-d6q.text" = "2";
+
+/* Class = "UILabel"; text = "City"; ObjectID = "32I-zO-XxL"; */
+"32I-zO-XxL.text" = "City";
+
+/* Class = "UIButton"; normalTitle = "Submit Request"; ObjectID = "4DL-rC-r9M"; */
+"4DL-rC-r9M.normalTitle" = "Submit Request";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "4JX-cZ-o8z"; */
+"4JX-cZ-o8z.text" = "Address";
+
+/* Class = "UILabel"; text = "Receive Request"; ObjectID = "5ZR-yb-kLD"; */
+"5ZR-yb-kLD.text" = "Receive Request";
+
+/* Class = "UILabel"; text = "Expected Amount (JOD)"; ObjectID = "7Vk-p2-Bd7"; */
+"7Vk-p2-Bd7.text" = "Expected Amount (JOD) *";
+
+/* Class = "UILabel"; text = "Pay Out Details"; ObjectID = "9uf-Dh-ANh"; */
+"9uf-Dh-ANh.text" = "Pay Out Details";
+
+/* Class = "UILabel"; text = "Remittance No."; ObjectID = "Bd5-qL-p59"; */
+"Bd5-qL-p59.text" = "Transfer No. *";
+
+/* Class = "UILabel"; text = "Bank Details"; ObjectID = "CsN-su-n8e"; */
+"CsN-su-n8e.text" = "Bank Details";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "Cus-cZ-5la"; */
+"Cus-cZ-5la.placeholder" = "Select";
+
+/* Class = "UITextField"; placeholder = "Enter expected amount here"; ObjectID = "DsX-St-UEz"; */
+"DsX-St-UEz.placeholder" = "Enter expected amount here";
+
+/* Class = "UILabel"; text = "Receiver Address Details:"; ObjectID = "EBU-j8-NeH"; */
+"EBU-j8-NeH.text" = "Receiver Address Details:";
+
+/* Class = "UITextField"; placeholder = "Enter account number here"; ObjectID = "Eb7-Fs-95a"; */
+"Eb7-Fs-95a.placeholder" = "Enter account number here";
+
+/* Class = "UILabel"; text = "Wallet Number"; ObjectID = "EvS-Bd-Nig"; */
+"EvS-Bd-Nig.text" = "Wallet Number *";
+
+/* Class = "UILabel"; text = "Building Number"; ObjectID = "HYM-Cl-elz"; */
+"HYM-Cl-elz.text" = "Building Number";
+
+/* Class = "UILabel"; text = "Wallet Provider"; ObjectID = "HvC-fN-LuP"; */
+"HvC-fN-LuP.text" = "Wallet Provider *";
+
+/* Class = "UITextField"; placeholder = "Enter region here"; ObjectID = "LZu-SC-6zy"; */
+"LZu-SC-6zy.placeholder" = "Enter region here";
+
+/* Class = "UITextField"; placeholder = "Amount to send here"; ObjectID = "Oog-mk-TAu"; */
+"Oog-mk-TAu.placeholder" = "Enter wallet number here";
+
+/* Class = "UILabel"; text = "Bank"; ObjectID = "OtK-pZ-fEJ"; */
+"OtK-pZ-fEJ.text" = "Bank";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "P1M-6n-R03"; */
+"P1M-6n-R03.placeholder" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "POc-FT-4P4"; */
+"POc-FT-4P4.normalTitle" = "Continue";
+
+/* Class = "UILabel"; text = "Building Name"; ObjectID = "Q07-ws-4Zd"; */
+"Q07-ws-4Zd.text" = "Building Name";
+
+/* Class = "UILabel"; text = "Sender Name"; ObjectID = "SXJ-z6-TS2"; */
+"SXJ-z6-TS2.text" = "Sender Name";
+
+/* Class = "UILabel"; text = "Apartment"; ObjectID = "Upk-OK-O4O"; */
+"Upk-OK-O4O.text" = "Apartment";
+
+/* Class = "UITextField"; placeholder = "Enter building name here"; ObjectID = "UwA-r2-Xbo"; */
+"UwA-r2-Xbo.placeholder" = "Enter building number here";
+
+/* Class = "UITextField"; placeholder = "Enter street here"; ObjectID = "V8v-WV-cN7"; */
+"V8v-WV-cN7.placeholder" = "Enter street here";
+
+/* Class = "UILabel"; text = "Receive Request"; ObjectID = "Xdf-sZ-HzH"; */
+"Xdf-sZ-HzH.text" = "Receive Request";
+
+/* Class = "UITextField"; placeholder = "Enter city here"; ObjectID = "Zja-8D-6aB"; */
+"Zja-8D-6aB.placeholder" = "Enter city here";
+
+/* Class = "UITextField"; placeholder = "Enter apartment number here"; ObjectID = "c9E-DB-TZ0"; */
+"c9E-DB-TZ0.placeholder" = "Enter apartment number here";
+
+/* Class = "UITextField"; placeholder = "Enter IBAN here"; ObjectID = "eFA-p5-skz"; */
+"eFA-p5-skz.placeholder" = "Enter IBAN here";
+
+/* Class = "UILabel"; text = "Request Details"; ObjectID = "ftx-Sy-URr"; */
+"ftx-Sy-URr.text" = "Transfer Info";
+
+/* Class = "UILabel"; text = "Wallet Details"; ObjectID = "iua-kA-hvr"; */
+"iua-kA-hvr.text" = "Wallet Details";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "j02-cH-8b6"; */
+"j02-cH-8b6.text" = "2";
+
+/* Class = "UILabel"; text = "Region"; ObjectID = "nlV-aD-JO0"; */
+"nlV-aD-JO0.text" = "Region";
+
+/* Class = "UITextField"; placeholder = "Enter sender name here"; ObjectID = "o7v-s3-2b1"; */
+"o7v-s3-2b1.placeholder" = "Enter sender name here";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "pht-Oy-hOM"; */
+"pht-Oy-hOM.placeholder" = "Select";
+
+/* Class = "UITextField"; placeholder = "Enter building name here"; ObjectID = "qje-o0-bRo"; */
+"qje-o0-bRo.placeholder" = "Enter building here";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "qw3-kR-TTh"; */
+"qw3-kR-TTh.text" = "1";
+
+/* Class = "UITextField"; placeholder = "Enter remittance number here"; ObjectID = "rpE-Eg-swa"; */
+"rpE-Eg-swa.placeholder" = "Enter Transfer number here";
+
+/* Class = "UILabel"; text = "IBAN"; ObjectID = "sNX-io-hdz"; */
+"sNX-io-hdz.text" = "IBAN";
+
+/* Class = "UILabel"; text = "Street"; ObjectID = "vjt-xp-gnq"; */
+"vjt-xp-gnq.text" = "Street";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "xhw-6K-VKf"; */
+"xhw-6K-VKf.text" = "1";
+
+/* Class = "UILabel"; text = "Account Number"; ObjectID = "zOu-fT-6nv"; */
+"zOu-fT-6nv.text" = "Account Number";
+
+"ccW-Te-w2w.text" = "Purpose of Transfer *";
+"lIM-sa-CwL.text" = "Relationship *";
+"zAH-wM-cJI.placeholder" = "Select";
+"LCe-1P-ki2.placeholder" = "Select";
+
+"P9V-Ea-2YI.text" = "Request Submitted Successfully";
+"qV0-bP-HNI.normalTitle" = "Home";
+
+
+"lFL-fi-e7F.text" = "OTP Verification";
+"zU7-HC-nb7.text" = "Enter the SMS code sent to your mobile number to verify this Transfer.";
+"NnV-Sf-ykS.text" = "Enter code";
+"drv-GL-BHf.placeholder" = "Enter code here";
+"g8R-3h-Ogz.normalTitle" = "Resend Code";
+"lYi-Cr-7sf.normalTitle" = "Submit";

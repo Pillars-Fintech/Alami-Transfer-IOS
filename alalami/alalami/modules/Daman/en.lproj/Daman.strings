@@ -1,0 +1,34 @@
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "3Fj-JO-LYp"; */
+"3Fj-JO-LYp.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "CSSI Number"; ObjectID = "48f-Ao-Zox"; */
+"48f-Ao-Zox.text" = "Pay Number";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "984-I1-0Q4"; */
+"984-I1-0Q4.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "Facilities"; ObjectID = "9XO-Sc-Ccm"; */
+"9XO-Sc-Ccm.text" = "Facilities";
+
+/* Class = "UILabel"; text = "MoneyGram"; ObjectID = "CQg-9k-ZlW"; */
+"CQg-9k-ZlW.text" = "Daman";
+
+/* Class = "UITextField"; placeholder = "Enter CSSI Number here"; ObjectID = "JzU-C3-Wcx"; */
+"JzU-C3-Wcx.placeholder" = "Enter Pay Number here";
+
+/* Class = "UILabel"; text = "Daman"; ObjectID = "cCJ-dU-3KT"; */
+"cCJ-dU-3KT.text" = "Payment Service";
+
+/* Class = "UITextField"; placeholder = "Enter Reference Number here"; ObjectID = "caf-m9-VXo"; */
+"caf-m9-VXo.placeholder" = "Enter Reference Number here";
+
+/* Class = "UILabel"; text = "Reference Number"; ObjectID = "k3e-T8-YLB"; */
+"k3e-T8-YLB.text" = "Reference Number";
+
+/* Class = "UILabel"; text = "Individuals"; ObjectID = "svR-Ri-dae"; */
+"svR-Ri-dae.text" = "Individuals";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "yWs-Vh-AGs"; */
+"yWs-Vh-AGs.text" = "Payment Type";
+//
